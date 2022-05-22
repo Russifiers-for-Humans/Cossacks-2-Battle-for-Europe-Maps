@@ -1,0 +1,19 @@
+{FG14}{C FF640100}La ville des rebelles
+\
+{FS}
+\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Des rebelles autrichiens d'une petite ville combattent pour leur indépendance.
+Votre but primaire sera de prendre tous les villages autour de cette ville pour couper l'enemi de tous ses ravitaillement.
+Mais attention,votre enemi a les mêmes intentions que vous. Bonne chance !
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire : {C FF100801}Rasez ou capturez les Hôtels de ville ennemis ou occupez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite : {C FF100801}Vous perdez la partie si vous perdez tous vos Hôtels de ville ou si l'ennemi occupe tous les villages de la carte.

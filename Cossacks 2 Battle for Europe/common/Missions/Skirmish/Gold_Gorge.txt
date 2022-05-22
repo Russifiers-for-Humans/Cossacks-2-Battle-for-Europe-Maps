@@ -1,0 +1,16 @@
+{FG14}{C FF640100}Gold gorge\
+{FC12}{C FF707070}Author: {C FF100801}© 2009 Agrid (agrid@front.ru)
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Between two ranges the narrow gorge in which all resources are concentrated was stretched. The key role in gorge is played by gold settlement, but it under the control to take uneasy. On its protection two groups of horse guards of the sultan. Therefore carefully prepare for its storm, or plan roundabout maneuvers. Successes!
+
+The note: the given card is intended for game 1 on 1, at game with the computer, AI tries to take at once under the control gold settlement and as it is well protected it sticks in it.
+
+
+\
+{FS} 
+\{FC12}{C FF640100}Victory conditions:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Defeat conditions:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

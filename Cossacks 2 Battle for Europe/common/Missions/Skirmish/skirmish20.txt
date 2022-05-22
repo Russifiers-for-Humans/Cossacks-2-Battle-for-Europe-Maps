@@ -1,0 +1,17 @@
+{FC12}{C FF707070}Type: {C FF100801}Command game
+\
+{FS} 
+\
+{FC12}{C FF707070}From a patch 1.4{C FF100801}
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}All contenders are located on different corners of a card, therefore the attack is possible from the different parties. You can play both command game with the partner, and game everyone for yourselves.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions of a victory: {C FF100801}Destroy or grasp the enemy City center or grasp all enemy villages on a card.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions of defeat: {C FF100801}You will lose, if will lose the City center or the enemy will grasp all villages on a card.

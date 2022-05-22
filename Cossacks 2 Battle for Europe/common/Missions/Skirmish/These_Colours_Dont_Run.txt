@@ -1,0 +1,14 @@
+{FG14}{C FF640100}TheseColoursDon'tRun\
+{FC12}{C FF707070}Auteur: {C FF100801}aiidii
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Your base and the enemy base are situated in the opposing corners of the map. The map itself is divided by a river with an island in it's centre. Good luck!
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Rasez ou capturez les hôtels de ville adverses ou prenez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous serez vaincu si vous perdez vos hôtels de ville ou si l'ennemi s'empare de tous les villages de la carte.

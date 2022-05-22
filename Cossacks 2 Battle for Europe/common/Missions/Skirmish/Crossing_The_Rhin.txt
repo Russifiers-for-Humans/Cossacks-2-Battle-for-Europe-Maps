@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Crossing the Rhine\
+{FC12}{C FF707070}Auteur: {C FF100801}Daddio
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}You must cross the river to reach your enemy.
+
+This map has a special feature, in that you have 2000 of each resource to begin the game with.
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Условия поражения:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

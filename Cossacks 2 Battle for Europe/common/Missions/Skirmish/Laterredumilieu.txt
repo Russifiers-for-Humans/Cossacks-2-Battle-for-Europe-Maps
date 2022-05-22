@@ -1,0 +1,12 @@
+{FG14}{C FF640100}La terre du milieu\
+{FC12}{C FF707070}Author: {C FF100801}Gintonic (Screenshot from Agrid)
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}2v2
+\
+{FS} 
+\{FC12}{C FF640100}Victory conditions:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Defeat conditions:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

@@ -1,0 +1,16 @@
+{FG14}{C FF640100}Goldgraberstatte\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Zwei Nationen liegen sich diagonal gegenüber.
+Mitten in einem großen Schlachtareal droht kleinen Goldgräberdörfern das baldige Aus.
+Teile der Berkwerksstollen sind schon überflutet. Niemand weis, wie lange sich die übrigen Stollen den unterirdischen Seen wiedersetzen können.
+Bergen Sie die restlichen Goldvorkommen bevor es Ihr Gegner tut.
+Viel Glück !
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Erobern Sie alle Dörfer oder zerstören Sie die gegnerischen Stadtzentren.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Wenn alle Ihre Stadtzentren zerstört oder alle Dörfer vom Gegner erobert wurden, bleibt für Sie nur noch der Galgen übrig.

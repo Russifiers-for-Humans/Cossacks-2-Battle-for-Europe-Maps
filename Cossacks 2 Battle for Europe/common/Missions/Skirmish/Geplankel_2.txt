@@ -1,0 +1,20 @@
+{FG14}{C FF640100}LJ Stellungskrieg
+\
+{FC12}{C FF707070}Auteur: {C FF100801}[GREY]Little_John
+\
+{FC12}{C FF707070}Typ: {C FF100801}Mission escarmouche - SP et MP
+\
+{FC12}{C FF640100}Pour: {C FF100801}1 à 2 joueurs, + IA.
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Guerre totale
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire : {C FF100801}Rasez ou capturez les Hôtels de ville ennemis ou occupez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite : {C FF100801}Vous perdez la partie si vous perdez tous vos Hôtels de ville ou si l'ennemi occupe tous les villages de la carte.
+

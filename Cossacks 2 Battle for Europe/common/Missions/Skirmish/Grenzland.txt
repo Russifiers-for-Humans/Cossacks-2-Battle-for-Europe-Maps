@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Grenzland/
+\
+{FC12}{C FF707070}Auteur: {C FF100801}ceegee
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Votre base et la base ennemie sont placées de part et d'autre de la carte. Les champs de bataille vous sont naturellement dictés par le paysage. Etablissez de solides lignes de défense ou lancez un assaut de grande envergure. Bonne chance !
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801} Rasez ou capturez les Hôtels de ville ennemis ou occupez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801} Vous perdez la partie si vous perdez tous vos Hôtels de ville ou si l'ennemi occupe tous les villages de la carte.

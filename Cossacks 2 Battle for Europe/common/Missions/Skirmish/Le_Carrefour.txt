@@ -1,0 +1,17 @@
+{FG14}{C FF640100}Le Carrefour
+\
+{FS}
+\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Carte pour 1 à 4 joueurs. Au croisement de deux ruisseaux, se trouve une mine d'or, source de revenus lucratifs, sur laquelle lorgnent déjà trois nations. Il serait quand même bien dommage de ne pas profiter d'une part de ce cadeau merveilleux. Et quitte à essayer, on pourrait tout prendre - car les autres nations sont très probablement divisées! Maintenant donc, à la bataille. Bonne chance!
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire : {C FF100801}Rasez ou capturez les Hôtels de ville ennemis ou occupez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite : {C FF100801}Vous perdez la partie si vous perdez tous vos Hôtels de ville ou si l'ennemi occupe tous les villages de la carte.

@@ -1,0 +1,18 @@
+{FG14}{C FF640100}AlpBandits\
+{FC12}{C FF707070}Auteur: {C FF100801}S.D
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Une bande de bandits provenant des alpes avoisinantes mettent toute la province dans une situation précaire. En temps de paix nous pourrions les exterminer avec notre armée mais la guerre avec les peuples de l'autre coté de ces montagnes ne nous permet pas d'investir dans un deuxiemme front. 
+Il faudra réfléchir sur une alliance avec les bandits car il s'agit ici de bien plus que de quelques villages incendiées. 
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Anéantissez toutes les troupes ennemies et conquérissez tous les points stratégiques.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous perdez si l'ennemie conquére tous vos points stratégiques ou si vous perdez toutes vos troupes. 
+{FS} 
+(optimisée pour le Iron Man Mod)
+

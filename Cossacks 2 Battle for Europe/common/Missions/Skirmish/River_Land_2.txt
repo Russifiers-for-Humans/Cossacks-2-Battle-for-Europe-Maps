@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Riverland 2\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Riverland 2 est non loin de Riverland et est également traversé par de nombreuses rivières. Seuls quelques ponts et gués permettent d'accéder aux zones insulaires. De nombreux gisements de ressources dans les nombreux villages dispersés qu'il prend. Jehnachdem quelle nation cherche la conquête de Riverland 2, plusieurs champs de bataille en même temps sont susceptibles de causer des victimes. Bien que la victoire est proche, il ne faut pas sous-estimer l'ennemi.
+Qui va gagner après Riverland Riverland 2 lui-même?!
+Bonne chance!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Tous les villages et les centres urbains doivent être conquis pour obtenir la victoire
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Si tous les villages ou les centres urbains sont perdus, ce qui est la défaite

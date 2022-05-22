@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Guerrilla\
+{FC12}{C FF707070}Auteur: {C FF100801}© 2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}On the given map, only a minimum of settlements at each party. To the contender the unique road which winds through six crossings conducts. A fast victory it not to turn out, crossings are protected by system of towers. On both parties of the river redoubts which allow to organise strong defence are established. Game is calculated for two players and is ideal for conducting guerrilla war.
+The map is created at the desire of my companion Ivan III, accordingly the idea of a card is offered them. 
+The note: the given map is intended for game 1 on 1, at game with the computer, AI stupidly climbs on security towers.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

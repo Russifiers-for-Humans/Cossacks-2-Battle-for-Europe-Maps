@@ -1,0 +1,12 @@
+{FG14}{C FF640100}BeQuickOrBeDead2\
+{FC12}{C FF707070}Auteur: {C FF100801}aiidii
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Your town center is situated on an island in the centre of the map. There are two enemies to fight with. You start with a single food village on the mainland. Be quick or be dead. Good luck!!!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture enemy town centres or capture all enemy villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town centres or enemy captures all the villages on the map.

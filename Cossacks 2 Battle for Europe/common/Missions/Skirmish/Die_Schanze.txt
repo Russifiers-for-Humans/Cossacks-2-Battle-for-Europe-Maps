@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Die Schanze\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Rebellische Abtrünnige haben die Schanzen besetzt und machen die Gegend unsicher. Die Lage ist ernst. Unser Hautpfeind wurde gesichtet, dessen Ziel es ist, das Land mit allen Mitteln zu erobern.
+Wir müssen dem Gegner zuvorkommen.
+Viel Glück !
+Hinweis: Nation 4 (Rebellen) ist nur für die KI vorgesehen. Wird sie ausgewählt greift sie sofort an.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Alle Dörfer oder Stadtzentren müssen erobert werden um den Sieg zu erringen.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Wenn alle Dörfer oder Stadtzentren verloren gehen, ist das die Niederlage.

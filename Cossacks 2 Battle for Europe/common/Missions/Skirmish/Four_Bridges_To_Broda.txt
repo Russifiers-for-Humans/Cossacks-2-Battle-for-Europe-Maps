@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Four Bridges To Broda\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}A divided riverbed with a wide strip of land between the divided stream separates private from enemy territory. The strip of land is a tasty morsel because the conquest of the thereon villages will supply its army with raw materials and goods.
+Do not expect that it will be a breeze. Numerous fords across the river require a dynamic and tactical warfare. The enemy will not let them to the last man at rest. The key to winning is to not to miss the appropriate time for an attack in the enemy's rear, to cut it off from its supplies.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Destroy or grasp the enemy City center or grasp all enemy villages on a card.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}You will lose, if will lose the City center or the enemy will grasp all villages on a card.

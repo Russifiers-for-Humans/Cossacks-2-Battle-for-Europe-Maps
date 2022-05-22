@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Inland Sea\
+{FC12}{C FF707070}Auteur: {C FF100801}Daddio
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}An inland sea dominates the landscape. decide which side to go around and find your enemy.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy Town Centers
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Loose Town Centers

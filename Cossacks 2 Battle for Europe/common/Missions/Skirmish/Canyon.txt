@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Canyon\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801} You with the opponent base are located on heights on the different parties of the big canyon. On each side a canyon plateau with abrupt slopes. Only in several parts (in northwest, northeast and the south) because of landslips were created well protected pass to a canyon. Fights will be long, and roundabout maneuvers from the south are possible.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Destroy all the enemy Town Centers or grasp all enemy villages on a map.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}You will lose, if will lose the Town Center or the enemy will grasp all villages on a map.
+

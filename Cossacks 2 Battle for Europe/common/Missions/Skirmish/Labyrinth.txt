@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Labyrinth\
+{FC12}{C FF707070}Auteur: {C FF100801} ©2010 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Between a plateau the road as a labyrinth. Even if you will lose the centre, you can long hold the fort on a plateau. The artillery is very effective.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

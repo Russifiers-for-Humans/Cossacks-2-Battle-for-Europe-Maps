@@ -1,0 +1,17 @@
+{FG14}{C FF640100}Team\
+{FC12}{C FF707070}Auteur: {C FF100801}Daddio
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}With this map you will have fixed positions for each team. This way both teams will be on the same side.
+Adjustments have been made to the villages to allow more peasants at the beginning and after upgrades to allow for more free space to place your town and build your army.
+A large group of villages in the middle are very rich in resources, but beware they are protected by Calvary. 
+
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Rasez ou capturez les hôtels de ville adverses ou prenez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous serez vaincu si vous perdez vos hôtels de ville ou si l'ennemi s'empare de tous les villages de la carte.

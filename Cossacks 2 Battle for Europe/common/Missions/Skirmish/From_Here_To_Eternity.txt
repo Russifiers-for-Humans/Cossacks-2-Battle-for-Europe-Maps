@@ -1,0 +1,12 @@
+{FG14}{C FF640100}FromHereToEternity\
+{FC12}{C FF707070}Автор: {C FF100801}aiidii
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}Your base and the enemy base are situated on the opposite sides of the map. The landscape will show you the battle sites. Organize a strong defense or attack at full force. Good luck!
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Условия поражения:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

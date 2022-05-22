@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Riverland 1\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Riverland est une région avec de nombreuses rivières. La conquête de l'individu Inselfächen est uniquement possible via des ponts et des gués isolés. Sur le Inselfäche dans le centre de la région est une ville avec des ressources d'or précieux. La Inselfächen environnante sont également bénis avec de riches gisements de ressources. Donc, il faut supposer que chaque nation gagne rapidement la force de combat. Il faut être préparé pour les enchevêtrements de combat prolongées. Pour une victoire complète, de nombreux villages ont à conquérir et l'avance sur les centres de la ville de l'ennemi peut être une question Lossy.
+Quelle nation va probablement porter le jour?
+Bonne chance!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Tous les villages et les centres urbains doivent être conquis pour obtenir la victoire
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Si tous les villages ou les centres urbains sont perdus, ce qui est la défaite

@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Empty village\
+{FC12}{C FF707070}Auteur: {C FF100801}© 2011 Agrid (agrid@front.ru)
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}The map is intended for game 1 on 1. In the central part of a map the thrown village. Choose the variant of conducting operations. On a map it is a lot of roads, use them! Successes!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

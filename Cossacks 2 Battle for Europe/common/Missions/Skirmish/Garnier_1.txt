@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Garnier01\
+{FC12}{C FF707070}Автор: {C FF100801}Garnier
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}A nice little practice map, Designed so that you do not have to attack neutral villages. All Villages are already accounted for.
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Условия поражения:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

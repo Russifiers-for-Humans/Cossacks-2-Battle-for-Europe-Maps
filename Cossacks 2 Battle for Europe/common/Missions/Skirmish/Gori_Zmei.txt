@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Gori Zmei\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS} 
+\
+{FC12}{C FF707070}Description : {C FF100801}Les Alpes sont une nouvelle le fois le théâtre d'une guerre entre de vieux voisins. Cette fois, le point de discorde est constitué par une zone montagneuse difficile d'accès, riche en gisements et en exploitations minières. Chaque camp affirme que ce territoire lui a toujours appartenu et lui appartient de droit ! Les diplomates doivent reconnaître leur impuissance et laisser parler les tambours. Le vainqueur occupera ces territoires si riches qu'ils suffiraient à fournir à son camp les ressources nécessaires pour écraser sous sa botte son voisin et peut-être même l'Europe tout entière.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire : {C FF100801}détruisez ou capturez les Hôtels de ville ennemis ou occupez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de défaite : {C FF100801}vous perdez tous vos Hôtels de ville ou l'ennemi occupe tous les villages de la carte.

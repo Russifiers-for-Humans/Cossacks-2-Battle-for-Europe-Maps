@@ -1,0 +1,173 @@
+#HBattle1_TXT Aspern - Essling
+#HBattle2_TXT Austerlitz
+#HBattle3_TXT Battle of the Pyramids
+#HBattle4_TXT Preussisch-Eylau
+#HBattle5_TXT Ulm
+#HBattle6_TXT Waagram
+#Battle7_TXT Winter battle
+#Battle8_TXT Dispersed location
+#Battle9_TXT Loopholes
+#Battle10_TXT Full mobilization
+#HBattle11_TXT Waterloo
+#HBattle12_TXT Battle of Borodino
+#HBattle13_TXT Leipzig: "Battle of the Nations"
+#Skirmish1_TXT Confrontation
+#Skirmish2_TXT Cross the Rubicon!
+#Skirmish3_TXT Dangerous neighbors
+#Skirmish4_TXT Siege
+#Skirmish5_TXT Coastal Battle
+#Skirmish6_TXT Maneuvers
+#Skirmish7_TXT Burning bridges!
+#Skirmish8_TXT King of the Hill
+#Skirmish9_TXT Swamp Fever
+#Skirmish10_TXT Key to victory
+#Skirmish11_TXT Winter battle
+#Skirmish12_TXT Desert
+#Skirmish13_TXT Southern City
+#Skirmish14_TXT Infinity War
+#Skirmish15_TXT Peninsula
+#Skirmish16_TXT Warpath
+#Skirmish17_TXT Four kings
+#Skirmish18_TXT No way out
+#Skirmish19_TXT Four Kings II
+#Skirmish20_TXT (4) AgaMap 1
+#Skirmish21_TXT (5) AlpBandits
+#Skirmish22_TXT (6) Andalosia
+#Skirmish23_TXT (3) Arena
+#Skirmish24_TXT (2) Assult 2
+#Skirmish25_TXT (2) At Mountains
+#Skirmish26_TXT (3) Back In The Village
+#Skirmish27_TXT (2) Barselona
+#Skirmish28_TXT (2) Battlefield 2
+#Skirmish29_TXT (4) Bauernhofe
+#Skirmish30_TXT (2) Berlin
+#Skirmish31_TXT (3) Be Quick Or Be Dead 2
+#Skirmish32_TXT (6) BigField
+#Skirmish33_TXT (3) Blood Brothers 2
+#Skirmish34_TXT (2) Brave New World
+#Skirmish35_TXT (2) Builder
+#Skirmish36_TXT (2) Canyon
+#Skirmish37_TXT (2) Czech Mission 1
+#Skirmish38_TXT (3) Dance Of Death
+#Skirmish39_TXT (4) Des Bois En Or
+#Skirmish40_TXT (4) Die Schanze
+#Skirmish41_TXT (2) Die With Your Boots On
+#Skirmish42_TXT (2) Dogs
+#Skirmish43_TXT (2) Dogs of War
+#Skirmish44_TXT (2) Ebene Krieg
+#Skirmish45_TXT (2) Edenburg
+#Skirmish46_TXT (2) Empty Village
+#Skirmish47_TXT (2) Fates Warning
+#Skirmish48_TXT (4) Fields Of Glory
+#Skirmish49_TXT (2) Fortunes Of War
+#Skirmish50_TXT (2) Four Bridges To Broda
+#Skirmish51_TXT (4) Four kings 3
+#Skirmish52_TXT (2) From Here To Eternity
+#Skirmish53_TXT (2) Garnier 1
+#Skirmish54_TXT (2) Geplankel 2
+#Skirmish55_TXT (2) Goldgraberstatte
+#Skirmish56_TXT (2) Gold Necklace
+#Skirmish57_TXT (2) Gori Zmei
+#Skirmish58_TXT (2) Grenzland
+#Skirmish59_TXT (2) Guerrilla
+#Skirmish60_TXT (3) Heaven Can Wait
+#Skirmish61_TXT (2) Iberia
+#Skirmish62_TXT (2) If Eternity Should Fail
+#Skirmish63_TXT (2) Invaders
+#Skirmish64_TXT (3) Isle Of Avalon
+#Skirmish65_TXT (2) Italia
+#Skirmish66_TXT (4) Kost
+#Skirmish67_TXT (4) Labyrinth
+#Skirmish68_TXT (2) La Terre Du Milieu
+#Skirmish69_TXT (3) La Ville Des Rebelles
+#Skirmish70_TXT (4) Les Sept Collines
+#Skirmish71_TXT (4) Le Carrefour
+#Skirmish72_TXT (2) London
+#Skirmish73_TXT (2) LongWay
+#Skirmish74_TXT (2) Manchester
+#Skirmish75_TXT (4) Middletown2
+#Skirmish76_TXT (2) Minsk
+#Skirmish77_TXT (2) Munich
+#Skirmish78_TXT (2) Nant
+#Skirmish79_TXT (3) New Frontier
+#Skirmish80_TXT (3) No Prayer For The Dying
+#Skirmish81_TXT (2) Old Fortress 1
+#Skirmish82_TXT (2) Old Fortress 2
+#Skirmish83_TXT (3) Only The Good Die Young
+#Skirmish84_TXT (2) Paris
+#Skirmish85_TXT (2) Paris Burning
+#Skirmish86_TXT (2) Prague
+#Skirmish87_TXT (2) Purgatory
+#Skirmish88_TXT (2) Regensburg
+#Skirmish89_TXT (4) River Land 1
+#Skirmish90_TXT (4) River Land 2
+#Skirmish91_TXT (4) River Land 3
+#Skirmish92_TXT (2) River Of Death
+#Skirmish93_TXT (4) River Town
+#Skirmish94_TXT (2) Road To Glory
+#Skirmish95_TXT (2) Rocky Mountains
+#Skirmish96_TXT (2) Rolling Thunder
+#Skirmish97_TXT (2) Ruins
+#Skirmish98_TXT (2) Run To The Hills
+#Skirmish99_TXT (2) Sand Storm
+#Skirmish100_TXT (2) Schlesien
+#Skirmish101_TXT (2) Sea Escort
+#Skirmish102_TXT (2) Ship War
+#Skirmish103_TXT (2) Ship War Remix
+#Skirmish104_TXT (2) Snow head
+#Skirmish105_TXT (2) Stone island
+#Skirmish106_TXT (2) Stone Island 2
+#Skirmish107_TXT (2) Strange World
+#Skirmish108_TXT (4) Tempete De Neige
+#Skirmish109_TXT (2) These Colours Dont Run
+#Skirmish110_TXT (2) The City Of Ebbs
+#Skirmish111_TXT (3) The Edge Of Darkness
+#Skirmish112_TXT (2) The Evil That Men Do
+#Skirmish113_TXT (2) The Hills Have Eyes
+#Skirmish114_TXT (3) The Man Who Would Be King
+#Skirmish115_TXT (4) The Sea On Fire
+#Skirmish116_TXT (3) The War of 3 Nations
+#Skirmish117_TXT (3) Three Generals
+#Skirmish118_TXT (3) Three Warlords
+#Skirmish119_TXT (2) Tortuga
+#Skirmish120_TXT (2) To Tame A Land
+#Skirmish121_TXT (2) Transylvania
+#Skirmish122_TXT (4) Treasure Island
+#Skirmish123_TXT (2) Tuluza
+#Skirmish124_TXT (2) Two Cities
+#Skirmish125_TXT (2) Under A Sight
+#Skirmish126_TXT (4) United Front
+#Skirmish127_TXT (4) Valley Four Mills
+#Skirmish128_TXT (2) Vena
+#Skirmish129_TXT (2) Warsaw
+#Skirmish130_TXT (6) War in Snow With 6 Nations
+#Skirmish131_TXT (2) WastedYears
+#Skirmish132_TXT (4) Weidland
+#Skirmish133_TXT (2) When Two Worlds Collide
+#Skirmish134_TXT (2) Wide Valley
+#Skirmish135_TXT (2) Wodorazdel
+#Skirmish136_TXT (3) Afraid To Shoot Strangers
+#Skirmish137_TXT (3) Be Quick Or Be Dead
+#Skirmish138_TXT (2) Crossing The Rhin
+#Skirmish139_TXT (4) Czech Mission 3
+#Skirmish140_TXT (2) Deasert Manuvers
+#Skirmish141_TXT (4) Four Continents 2
+#Skirmish142_TXT (2) Gold Gorge
+#Skirmish143_TXT (2) Hieroglyph
+#Skirmish144_TXT (2) Hills Of Gold
+#Skirmish145_TXT (2) Inland Sea
+#Skirmish146_TXT (2) Lava Flats
+#Skirmish147_TXT (2) Moscow
+#Skirmish148_TXT (2) Mountain Pass
+#Skirmish149_TXT (2) Nubia
+#Skirmish150_TXT (2) Plains Attack
+#Skirmish151_TXT (2) River Country
+#Skirmish152_TXT (4) Team
+#Skirmish153_TXT (2) Ukraine
+#Skirmish154_TXT (2) Winter Plateau
+#Laterredumilieu_TXT (4) La terre du milieu
+#10PT_TXT (2) Hills-of-Gold
+#dogs_TXT (2) The Dogs Of War
+#111River_TXT (2) River of Death
+#Assult2_TXT (2) Country Afire
+#bethere5_TXT (2) Rolling Thunder

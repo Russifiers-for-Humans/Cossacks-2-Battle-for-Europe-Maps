@@ -1,0 +1,13 @@
+{FC12}{C FF707070}Type: 1{C FF100801}Single mission
+\
+{FS}
+\
+{FC12}{C FF707070}Description: {C FF100801}You must control your opponet in order to control Paris
+\
+{FS}
+\
+{FC12}{C FF640100}Conditions of a victory: {C FF100801}Single mission
+\
+{FS}
+\
+{FC12}{C FF640100}Conditions of defeat: {C FF100801}You will lose, if will lose the City center or the enemy will grasp all villages on a map.

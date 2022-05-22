@@ -1,0 +1,19 @@
+{FG14}{C FF640100}Silesia\
+{FC12}{C FF707070}Auteur: {C FF100801}©2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Many inhabitants Silesia with pleasure have met annexation of Silesia by Prussian king Fridrihom II (1740). By the War end for the Austrian inheritance (1740 1748) all region was a part of Prussia, except for southeast princedoms Teshin and Opava whom Austrian Gabsburgi owned. Seven-year war (1756 1763) only has strengthened the Prussian control over this territory, and the province Silesia as a part of Prussia was considered as one of the most loyal in relation to the king.
+
+It is a disputable site during Napoleonic wars, and each nation intended to tear off to itself a slice "more fatly".
+
+The investigation report: the direct way to the enemy is closed, found out the blown up bridge with protection. More low on a current to be the thrown bridge in a difficult terrain. To be in a distant part of the river the decent ford convenient for speeding up of the river.
+
+Accept in calculation of knowledge of district and construct the way to a victory.
+\
+{FS} 
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Rasez ou capturez les hôtels de ville adverses ou prenez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous serez vaincu si vous perdez vos hôtels de ville ou si l'ennemi s'empare de tous les villages de la carte.

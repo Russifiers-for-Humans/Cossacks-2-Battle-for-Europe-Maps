@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Four Continents 2\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Four Continents 2 are four different parties of light (tropics, desert, the European and snow continent) .Âll continents are connected with an almost impassable bog with well strengthened settlement in the center. Roads are badly developed. Aide-de-camps are given to each of players. Remember, that they-military units, and borrow 1 inhabited place. Fight will be complex and long. Success!
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Destroy all the enemy Town Centers or grasp all enemy villages on a map.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}You will lose, if will lose the Town Center or the enemy will grasp all villages on a map.
+

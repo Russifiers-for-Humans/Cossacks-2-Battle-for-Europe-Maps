@@ -1,0 +1,14 @@
+{FG14}{C FF640100}ParisBurning\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS}
+\
+{FC12}{C FF707070}Description: {C FF100801}You must control your opponet in order to control Paris
+\
+{FS}
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Single mission
+\
+{FS}
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}You will lose, if will lose the City center or the enemy will grasp all villages on a map.

@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Ruins\
+{FC12}{C FF707070}Auteur: {C FF100801}©2010 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}The maps is calculated on 2 contenders. Your bases in different corners of a card, them are divided by the river with inflows. The basic road goes along not clear cult constructions from which there were only ruins, behind ruins a titbit from 4 settlements, but there are no roads. There is an alternative way, to base of the contender  to settlements of miners extracting iron.
+Think over the way to a victory!
+Successes!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

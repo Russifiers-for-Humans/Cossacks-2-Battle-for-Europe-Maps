@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Three Generals\
+{FC12}{C FF707070}Àâòîð: {C FF100801}eXterminator
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Your base and the enemys bases are situated on the opposite sides of the map. The landscape will show you the battle sites. Organize a strong defense or attack at full force. Good luck!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire:{C FF100801} Destroy or capture enemy town centres or capture all enemy villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite:{C FF100801} You will be defeated if you lose your town centres or enemy captures all the villages on the map.

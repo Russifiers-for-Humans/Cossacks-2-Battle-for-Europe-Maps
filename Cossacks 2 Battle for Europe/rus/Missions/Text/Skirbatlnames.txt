@@ -1,0 +1,173 @@
+#HBattle1_TXT Асперн - Эсслинг
+#HBattle2_TXT Аустерлиц 
+#HBattle3_TXT Битва при пирамидах
+#HBattle4_TXT Пройсиш-Эйлау
+#HBattle5_TXT Ульм
+#HBattle6_TXT Вааграм
+#Battle7_TXT Зимний бой
+#Battle8_TXT Рассредоточенное расположение 
+#Battle9_TXT Амбразуры 
+#Battle10_TXT Полная мобилизация
+#HBattle11_TXT Ватерлоо
+#HBattle12_TXT Бородинское сражение
+#HBattle13_TXT Лейпциг: «Битва народов»
+#Skirmish1_TXT Противостояние
+#Skirmish2_TXT Пересечь Рубикон!
+#Skirmish3_TXT Опасные соседи
+#Skirmish4_TXT Осада
+#Skirmish5_TXT Битва на побережье
+#Skirmish6_TXT Маневры
+#Skirmish7_TXT Сжигая мосты!
+#Skirmish8_TXT Царь Горы
+#Skirmish9_TXT Болотная лихорадка
+#Skirmish10_TXT Ключ к победе
+#Skirmish11_TXT Зимний бой
+#Skirmish12_TXT Пустыня
+#Skirmish13_TXT Южный город
+#Skirmish14_TXT Бесконечная война
+#Skirmish15_TXT Полуостров
+#Skirmish16_TXT Тропа войны
+#Skirmish17_TXT Четыре короля
+#Skirmish18_TXT Выхода нет
+#Skirmish19_TXT Четыре короля II
+#Skirmish20_TXT (4) АгаКарта 1
+#Skirmish21_TXT (5) Альпийские бандиты
+#Skirmish22_TXT (6) Андалозия
+#Skirmish23_TXT (3) Арена
+#Skirmish24_TXT (2) Нападение 2
+#Skirmish25_TXT (2) В горах
+#Skirmish26_TXT (3) Снова в деревне
+#Skirmish27_TXT (2) Барселона
+#Skirmish28_TXT (2) Поле битвы 2
+#Skirmish29_TXT (4) Ферма
+#Skirmish30_TXT (2) Берлин
+#Skirmish31_TXT (3) Будь быстрым или умри 2
+#Skirmish32_TXT (6) Большое поле
+#Skirmish33_TXT (3) Братья по крови 2
+#Skirmish34_TXT (2) Дивный новый мир
+#Skirmish35_TXT (2) Конструктор
+#Skirmish36_TXT (2) Каньон
+#Skirmish37_TXT (2) Миссия в Чехии 1
+#Skirmish38_TXT (3) Танец Смерти
+#Skirmish39_TXT (4) Золотые Леса
+#Skirmish40_TXT (4) Лыжный трамплин
+#Skirmish41_TXT (2) Умри В Своих Ботинках
+#Skirmish42_TXT (2) Собаки
+#Skirmish43_TXT (2) Псы войны
+#Skirmish44_TXT (2) Уровень войны
+#Skirmish45_TXT (2) Эденбург
+#Skirmish46_TXT (2) Пустая деревня
+#Skirmish47_TXT (2) Предупреждение о судьбе
+#Skirmish48_TXT (4) Поля Славы
+#Skirmish49_TXT (2) Военные удачи
+#Skirmish50_TXT (2) Четыре моста в Броду
+#Skirmish51_TXT (4) Четыре короля 3
+#Skirmish52_TXT (2) Отсюда и в вечность
+#Skirmish53_TXT (2) Гарньер 1
+#Skirmish54_TXT (2) Гепланкель 2
+#Skirmish55_TXT (2) Золотая гробница
+#Skirmish56_TXT (2) Золотое ожерелье
+#Skirmish57_TXT (2) Гори Змей
+#Skirmish58_TXT (2) Приграничье
+#Skirmish59_TXT (2) Партизанская война
+#Skirmish60_TXT (3) Небеса могут подождать
+#Skirmish61_TXT (2) Иберия
+#Skirmish62_TXT (2) Если Вечность рухнет
+#Skirmish63_TXT (2) Захватчики
+#Skirmish64_TXT (3) Остров Авалон
+#Skirmish65_TXT (2) Италия
+#Skirmish66_TXT (4) Блюдо
+#Skirmish67_TXT (4) Лабиринт
+#Skirmish68_TXT (2) Средиземье
+#Skirmish69_TXT (3) Мятежный городок
+#Skirmish70_TXT (4) Семь Холмов
+#Skirmish71_TXT (4) Перекресток
+#Skirmish72_TXT (2) Лондон
+#Skirmish73_TXT (2) Долгий путь
+#Skirmish74_TXT (2) Манчестер
+#Skirmish75_TXT (4) Миддлтаун2
+#Skirmish76_TXT (2) Минск
+#Skirmish77_TXT (2) Мюнхен
+#Skirmish78_TXT (2) Нант
+#Skirmish79_TXT (3) Новый рубеж
+#Skirmish80_TXT (3) Нет молитвы за умирающих
+#Skirmish81_TXT (2) Старая крепость 1
+#Skirmish82_TXT (2) Старая крепость 2
+#Skirmish83_TXT (3) Только хорошие умирают молодыми
+#Skirmish84_TXT (2) Париж
+#Skirmish85_TXT (2) Горящий Париж
+#Skirmish86_TXT (2) Прага
+#Skirmish87_TXT (2) Чистилище
+#Skirmish88_TXT (2) Регенсбург
+#Skirmish89_TXT (4) Речная Земля 1
+#Skirmish90_TXT (4) Речная Земля 2
+#Skirmish91_TXT (4) Речная Земля 3
+#Skirmish92_TXT (2) Река Смерти
+#Skirmish93_TXT (4) Ривер Таун
+#Skirmish94_TXT (2) Дорога к славе
+#Skirmish95_TXT (2) Скалистые горы
+#Skirmish96_TXT (2) Раскаты грома
+#Skirmish97_TXT (2) Руины
+#Skirmish98_TXT (2) Беги в горы
+#Skirmish99_TXT (2) Песчаная буря
+#Skirmish100_TXT (2) Силезия
+#Skirmish101_TXT (2) Морской эскорт
+#Skirmish102_TXT (2) Война кораблей
+#Skirmish103_TXT (2) Ремикс "Война кораблей"
+#Skirmish104_TXT (2) Снежная голова
+#Skirmish105_TXT (2) Каменный остров
+#Skirmish106_TXT (2) Каменный остров 2
+#Skirmish107_TXT (2) Странный мир
+#Skirmish108_TXT (4) Метель
+#Skirmish109_TXT (2) Эти цвета не идут
+#Skirmish110_TXT (2) Город Эббс
+#Skirmish111_TXT (3) На краю тьмы
+#Skirmish112_TXT (2) Зло, которое творят мужчины
+#Skirmish113_TXT (2) У холмов есть глаза
+#Skirmish114_TXT (3) Человек, который хотел стать королем
+#Skirmish115_TXT (4) Море в огне
+#Skirmish116_TXT (3) Война трех наций
+#Skirmish117_TXT (3) Три генерала
+#Skirmish118_TXT (3) Три военачальника
+#Skirmish119_TXT (2) Тортуга
+#Skirmish120_TXT (2) Приручить землю
+#Skirmish121_TXT (2) Трансильвания
+#Skirmish122_TXT (4) Остров сокровищ
+#Skirmish123_TXT (2) Тулуза
+#Skirmish124_TXT (2) Два города
+#Skirmish125_TXT (2) под прицелом
+#Skirmish126_TXT (4) Объединенный фронт
+#Skirmish127_TXT (4) Долина Четырех Мельниц
+#Skirmish128_TXT (2) Вена
+#Skirmish129_TXT (2) Варшава
+#Skirmish130_TXT (6) Война в снегу с участием 6 наций
+#Skirmish131_TXT (2) Потерянные Годы
+#Skirmish132_TXT (4) Вейдланд
+#Skirmish133_TXT (2) Когда сталкиваются два мира
+#Skirmish134_TXT (2) Широкая долина
+#Skirmish135_TXT (2) Водораздел
+#Skirmish136_TXT (3) Боится стрелять в незнакомцев
+#Skirmish137_TXT (3) Будь быстрым или умри
+#Skirmish138_TXT (2) Переправа через Рейн
+#Skirmish139_TXT (4) Миссия в Чехии 3
+#Skirmish140_TXT (2) Маневры Дезерта
+#Skirmish141_TXT (4) Четыре континента 2
+#Skirmish142_TXT (2) Золотое ущелье
+#Skirmish143_TXT (2) Иероглиф
+#Skirmish144_TXT (2) Золотые холмы
+#Skirmish145_TXT (2) Внутреннее море
+#Skirmish146_TXT (2) Лавовые равнины
+#Skirmish147_TXT (2) Москва
+#Skirmish148_TXT (2) Горный перевал
+#Skirmish149_TXT (2) Нубия
+#Skirmish150_TXT (2) Атака равнин
+#Skirmish151_TXT (2) Речная страна
+#Skirmish152_TXT (4) Команда
+#Skirmish153_TXT (2) Украина
+#Skirmish154_TXT (2) Зимнее плато
+#Laterredumilieu_TXT (4) Средиземье
+#10PT_TXT (2) Золотые холмы
+#dogs_TXT (2) Псы войны
+#111River_TXT (2) Река смерти
+#Assult2_TXT (2) Страна в огне
+#bethere5_TXT (2) Раскатистый гром

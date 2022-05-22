@@ -1,0 +1,13 @@
+{FG14}{C FF640100}Dogs of War\
+{FC12}{C FF707070}Auteur: {C FF100801}© 2010 Aiidii
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Your base and the enemy base are situated on the opposite sides of the map. There is a town in the middle. Capture it to gain strategic advantage over the enemy. The landscape gives many opportunities for a flanking maneuver. Take this into consideration.
+Good luck commander!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

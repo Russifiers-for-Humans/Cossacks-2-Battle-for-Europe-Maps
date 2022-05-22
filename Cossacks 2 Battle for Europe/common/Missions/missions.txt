@@ -1,0 +1,1628 @@
+#TUTORIAL
+Tutorial
+-
+Missions\Campains\27xDeliverance.m3d
+-
+0
+#SECTOR00@
+Mission Name - Sector00.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector00\Sector00.m3d
+Missions\StatData\Sector00\Sector00.txt
+1
+Missions\StatData\Sector00\Sector00.txt
+#SECTOR01@
+Mission Name - Sector01.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector01\Sector01.m3d
+Missions\StatData\Sector01\Sector01.txt
+1
+Missions\StatData\Sector01\Sector01.txt
+#SECTOR02@
+Mission Name - Sector02.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector02\Sector02.m3d
+Missions\StatData\Sector02\Sector02.txt
+1
+Missions\StatData\Sector02\Sector02.txt
+#SECTOR03@
+Mission Name - Sector03.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector03\Sector03.m3d
+Missions\StatData\Sector03\Sector03.txt
+1
+Missions\StatData\Sector03\Sector03.txt
+#SECTOR04@
+Mission Name - Sector04.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector04\Sector04.m3d
+Missions\StatData\Sector04\Sector04.txt
+1
+Missions\StatData\Sector04\Sector04.txt
+#SECTOR05@
+Mission Name - Sector05.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector05\Sector05.m3d
+Missions\StatData\Sector05\Sector05.txt
+1
+Missions\StatData\Sector05\Sector05.txt
+#SECTOR06@
+Mission Name - Sector06.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector06\Sector06.m3d
+Missions\StatData\Sector06\Sector06.txt
+1
+Missions\StatData\Sector06\Sector06.txt
+#SECTOR07@
+Mission Name - Sector07.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector07\Sector07.m3d
+Missions\StatData\Sector07\Sector07.txt
+1
+Missions\StatData\Sector07\Sector07.txt
+#SECTOR08@
+Mission Name - Sector08.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector08\Sector08.m3d
+Missions\StatData\Sector08\Sector08.txt
+1
+Missions\StatData\Sector08\Sector08.txt
+#SECTOR09@
+Mission Name - Sector09.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector09\Sector09.m3d
+Missions\StatData\Sector09\Sector09.txt
+1
+Missions\StatData\Sector09\Sector09.txt
+#SECTOR10@
+Mission Name - Sector10.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector10\Sector10.m3d
+Missions\StatData\Sector10\Sector10.txt
+1
+Missions\StatData\Sector10\Sector10.txt
+#SECTOR11@
+Mission Name - Sector11.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector11\Sector11.m3d
+Missions\StatData\Sector11\Sector11.txt
+1
+Missions\StatData\Sector11\Sector11.txt
+#SECTOR12@
+Mission Name - Sector12.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector12\Sector12.m3d
+Missions\StatData\Sector12\Sector12.txt
+1
+Missions\StatData\Sector12\Sector12.txt
+#SECTOR13@
+Mission Name - Sector13.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector13\Sector13.m3d
+Missions\StatData\Sector13\Sector13.txt
+1
+Missions\StatData\Sector13\Sector13.txt
+#SECTOR14@
+Mission Name - Sector14.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector14\Sector14.m3d
+Missions\StatData\Sector14\Sector14.txt
+1
+Missions\StatData\Sector14\Sector14.txt
+#SECTOR15@
+Mission Name - Sector15.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector15\Sector15.m3d
+Missions\StatData\Sector15\Sector15.txt
+1
+Missions\StatData\Sector15\Sector15.txt
+#SECTOR16@
+Mission Name - Sector16.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector16\Sector16.m3d
+Missions\StatData\Sector16\Sector16.txt
+1
+Missions\StatData\Sector16\Sector16.txt
+#SECTOR17@
+Mission Name - Sector17.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector17\Sector17.m3d
+Missions\StatData\Sector17\Sector17.txt
+1
+Missions\StatData\Sector17\Sector17.txt
+#SECTOR18@
+Mission Name - Sector18.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector18\Sector18.m3d
+Missions\StatData\Sector18\Sector18.txt
+1
+Missions\StatData\Sector18\Sector18.txt
+#SECTOR19@
+Mission Name - Sector19.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector19\Sector19.m3d
+Missions\StatData\Sector19\Sector19.txt
+1
+Missions\StatData\Sector19\Sector19.txt
+#SECTOR20@
+Mission Name - Sector20.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector20\Sector20.m3d
+Missions\StatData\Sector20\Sector20.txt
+1
+Missions\StatData\Sector20\Sector20.txt
+#SECTOR21@
+Mission Name - Sector21.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector21\Sector21.m3d
+Missions\StatData\Sector21\Sector21.txt
+1
+Missions\StatData\Sector21\Sector21.txt
+#SECTOR22@
+Mission Name - Sector22.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector22\Sector22.m3d
+Missions\StatData\Sector22\Sector22.txt
+1
+Missions\StatData\Sector22\Sector22.txt
+#SECTOR23@
+Mission Name - Sector23.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector23\Sector23.m3d
+Missions\StatData\Sector23\Sector23.txt
+1
+Missions\StatData\Sector23\Sector23.txt
+#SECTOR24@
+Mission Name - Sector24.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector24\Sector24.m3d
+Missions\StatData\Sector24\Sector24.txt
+1
+Missions\StatData\Sector24\Sector24.txt
+#SECTOR25@
+Mission Name - Sector25.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector25\Sector25.m3d
+Missions\StatData\Sector25\Sector25.txt
+1
+Missions\StatData\Sector25\Sector25.txt
+#SECTOR26@
+Mission Name - Sector26.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector26\Sector26.m3d
+Missions\StatData\Sector26\Sector26.txt
+1
+Missions\StatData\Sector26\Sector26.txt
+#SECTOR27@
+Mission Name - Sector27.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector27\Sector27.m3d
+Missions\StatData\Sector27\Sector27.txt
+1
+Missions\StatData\Sector27\Sector27.txt
+#SECTOR28@
+Mission Name - Sector28.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector28\Sector28.m3d
+Missions\StatData\Sector28\Sector28.txt
+1
+Missions\StatData\Sector28\Sector28.txt
+#SECTOR29@
+Mission Name - Sector29.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector29\Sector29.m3d
+Missions\StatData\Sector29\Sector29.txt
+1
+Missions\StatData\Sector29\Sector29.txt
+#SECTOR30@
+Mission Name - Sector30.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector30\Sector30.m3d
+Missions\StatData\Sector30\Sector30.txt
+1
+Missions\StatData\Sector30\Sector30.txt
+#SECTOR31@
+Mission Name - Sector31.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector31\Sector31.m3d
+Missions\StatData\Sector31\Sector31.txt
+1
+Missions\StatData\Sector31\Sector31.txt
+#SECTOR32@
+Mission Name - Sector32.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector32\Sector32.m3d
+Missions\StatData\Sector32\Sector32.txt
+1
+Missions\StatData\Sector32\Sector32.txt
+#SECTOR33@
+Mission Name - Sector33.
+Missions\MissionEngin\MissionEngine.dll
+Missions\StatData\Sector33\Sector33.m3d
+Missions\StatData\Sector33\Sector33.txt
+1
+Missions\StatData\Sector33\Sector33.txt
+#HBattle13
+#HBattle13_TXT
+-
+Missions\Battles\HbattleLepcig.m3d
+Missions\Battles\HbattleLepcig.txt
+2
+Interf3\maps\battles\HbattleLeipcig.jpg 444 211
+236 125 1007 400
+#HBattle12
+#HBattle12_TXT
+-
+Missions\Battles\HbattleBorodino.m3d
+Missions\Battles\HbattleBorodino.txt
+2
+Interf3\maps\battles\HbattleBorodino.jpg 444 211
+236 125 1007 400
+#HBattle11
+#HBattle11_TXT
+-
+Missions\Battles\HbattleVeterlo.m3d
+Missions\Battles\HbattleVeterlo.txt
+2
+Interf3\maps\battles\HBattleVaterloo.jpg 444 211
+236 125 1007 400
+#HBattle1
+#HBattle1_TXT
+-
+Missions\Battles\HbattleAspern.m3d
+Missions\Battles\HbattleAspern.txt
+2
+Interf3\maps\battles\HBattleAspern.jpg 444 211
+236 125 1007 400
+#HBattle2
+#HBattle2_TXT
+-
+Missions\Battles\HbattleAusterlitz.m3d
+Missions\Battles\HbattleAusterlitz.txt
+2
+Interf3\maps\battles\HBattleAusterlitz.jpg 354 155
+258 350 539 90
+#HBattle3
+#HBattle3_TXT
+-
+Missions\Battles\Hbattleegp.m3d
+Missions\Battles\Hbattleegp.txt
+2
+Interf3\maps\battles\HBattleEgp.jpg 261 228
+118 298 721 212
+#HBattle4
+#HBattle4_TXT
+-
+Missions\Battles\HbattleEilau.m3d
+Missions\Battles\HbattleEilau.txt
+2
+Interf3\maps\battles\HbattleEilau.jpg 450 277
+43 249 420 269
+#HBattle5
+#HBattle5_TXT
+-
+Missions\Battles\HbattleUlm.m3d
+Missions\Battles\HbattleUlm.txt
+2
+Interf3\maps\battles\HbattleUlm.jpg 380 95
+391 55 253 393
+#HBattle6
+#HBattle6_TXT
+-
+Missions\Battles\HbattleVaagram.m3d
+Missions\Battles\HbattleVaagram.txt
+2
+Interf3\maps\battles\HbattleVaagram.jpg 535 105
+186 87 1063 90
+#Battle7
+#Battle7_TXT
+-
+Missions\Battles\Battle1.m3d
+Missions\Battles\Battle1.txt
+2
+Interf3\maps\battles\battle1.jpg 525 260
+124 276 543 87
+#Battle8
+#Battle8_TXT
+-
+Missions\Battles\Battle2.m3d
+Missions\Battles\Battle2.txt
+2
+Interf3\maps\battles\battle2.jpg 595 350
+254 159 525 382
+#Battle9
+#Battle9_TXT
+-
+Missions\Battles\Battle3.m3d
+Missions\Battles\Battle3.txt
+2
+Interf3\maps\battles\battle3.jpg 165 515
+771 291 252 81
+#Battle10
+#Battle10_TXT
+-
+Missions\Battles\Battle4.m3d
+Missions\Battles\Battle4.txt
+2
+Interf3\maps\battles\battle4.jpg 320 100
+131 118 1293 522
+#Skirmish1
+#Skirmish1_TXT
+-
+Missions\Skirmish\Skirmish1.m3d
+Missions\Skirmish\Skirmish1.txt
+2
+Interf3\maps\skirmish\skirmish1.jpg 60 505
+134 473 902 71
+#Skirmish2
+#Skirmish2_TXT
+-
+Missions\Skirmish\Skirmish2.m3d
+Missions\Skirmish\Skirmish2.txt
+2
+Interf3\maps\skirmish\skirmish2.jpg 800 165
+76 315 985 248
+#Skirmish3
+#Skirmish3_TXT
+-
+Missions\Skirmish\Skirmish3.m3d
+Missions\Skirmish\Skirmish3.txt
+2
+Interf3\maps\skirmish\skirmish3.jpg 925 95
+158 76 953 84
+#Skirmish4
+#Skirmish4_TXT
+-
+Missions\Skirmish\Skirmish4.m3d
+Missions\Skirmish\Skirmish4.txt
+2
+Interf3\maps\skirmish\skirmish4.jpg 510 245
+82 474 928 86
+#Skirmish5
+#Skirmish5_TXT
+-
+Missions\Skirmish\Skirmish5.m3d
+Missions\Skirmish\Skirmish5.txt
+2
+Interf3\maps\skirmish\skirmish5.jpg 685 150
+232 89 930 419
+#Skirmish6
+#Skirmish6_TXT
+-
+Missions\Skirmish\Skirmish6.m3d
+Missions\Skirmish\Skirmish6.txt
+2
+Interf3\maps\skirmish\skirmish6.jpg 465 350
+220 434 828 125
+#Skirmish7
+#Skirmish7_TXT
+-
+Missions\Skirmish\Skirmish7.m3d
+Missions\Skirmish\Skirmish7.txt
+2
+Interf3\maps\skirmish\skirmish7.jpg 735 190
+184 382 876 192
+#Skirmish8
+#Skirmish8_TXT
+-
+Missions\Skirmish\Skirmish8.m3d
+Missions\Skirmish\Skirmish8.txt
+2
+Interf3\maps\skirmish\skirmish8.jpg 350 165
+101 304 945 102
+#Skirmish9
+#Skirmish9_TXT
+-
+Missions\Skirmish\Skirmish9.m3d
+Missions\Skirmish\Skirmish9.txt
+2
+Interf3\maps\skirmish\skirmish9.jpg 210 100
+103 350 899 164
+#Skirmish10
+#Skirmish10_TXT
+-
+Missions\Skirmish\Skirmish10.m3d
+Missions\Skirmish\Skirmish10.txt
+2
+Interf3\maps\skirmish\skirmish10.jpg 700 330
+91 305 847 229
+#Skirmish11
+#Skirmish11_TXT
+-
+Missions\Skirmish\Skirmish11.m3d
+Missions\Skirmish\Skirmish11.txt
+2
+Interf3\maps\skirmish\skirmish11.jpg 700 330
+91 305 847 229
+#Skirmish12
+#Skirmish12_TXT
+-
+Missions\Skirmish\Skirmish12.m3d
+Missions\Skirmish\Skirmish12.txt
+2
+Interf3\maps\skirmish\skirmish12.jpg 700 330
+91 305 847 229
+#Skirmish13
+#Skirmish13_TXT
+-
+Missions\Skirmish\Skirmish13.m3d
+Missions\Skirmish\Skirmish13.txt
+2
+Interf3\maps\skirmish\skirmish13.jpg 700 330
+91 305 847 229
+#Skirmish14
+#Skirmish14_TXT
+-
+Missions\Skirmish\Skirmish14.m3d
+Missions\Skirmish\Skirmish14.txt
+2
+Interf3\maps\skirmish\skirmish14.jpg 700 330
+91 305 847 229
+#Skirmish15
+#Skirmish15_TXT
+-
+Missions\Skirmish\Skirmish15.m3d
+Missions\Skirmish\Skirmish15.txt
+2
+Interf3\maps\skirmish\skirmish15.jpg 700 330
+91 305 847 229
+#Skirmish16
+#Skirmish16_TXT
+-
+Missions\Skirmish\Skirmish16.m3d
+Missions\Skirmish\Skirmish16.txt
+2
+Interf3\maps\skirmish\skirmish16.jpg 700 330
+91 305 847 229
+#Skirmish17
+#Skirmish17_TXT
+-
+Missions\Skirmish\Skirmish17.m3d
+Missions\Skirmish\Skirmish17.txt
+2
+Interf3\maps\skirmish\skirmish17.jpg 700 330
+91 305 847 229
+#Skirmish18
+#Skirmish18_TXT
+-
+Missions\Skirmish\Skirmish18.m3d
+Missions\Skirmish\Skirmish18.txt
+2
+Interf3\maps\skirmish\skirmish18.jpg 700 330
+91 305 847 229
+#Skirmish19
+#Skirmish19_TXT
+-
+Missions\Skirmish\Skirmish19.m3d
+Missions\Skirmish\Skirmish19.txt
+2
+Interf3\maps\skirmish\skirmish19.jpg 700 330
+91 305 847 229
+#Skirmish20
+#Skirmish20_TXT
+-
+Missions\Skirmish\AgaMap_1.m3d
+Missions\Skirmish\AgaMap_1.txt
+2
+Interf3\maps\skirmish\AgaMap_1.jpg 480 206
+187 143 239 586
+#Skirmish21
+#Skirmish21_TXT
+-
+Missions\Skirmish\AlpBandits.m3d
+Missions\Skirmish\AlpBandits.txt
+2
+Interf3\maps\skirmish\AlpBandits.jpg 490 208
+289 321 385 561
+#Skirmish22
+#Skirmish22_TXT
+-
+Missions\Skirmish\Andalosia.m3d
+Missions\Skirmish\Andalosia.txt
+2
+Interf3\maps\skirmish\Andalosia.jpg 510 236
+314 254 472 407
+#Skirmish23
+#Skirmish23_TXT
+-
+Missions\Skirmish\Arena.m3d
+Missions\Skirmish\Arena.txt
+2
+Interf3\maps\skirmish\Arena.jpg 395 229
+460 144 239 419
+#Skirmish24
+#Skirmish24_TXT
+-
+Missions\Skirmish\Assult_2.m3d
+Missions\Skirmish\Assult_2.txt
+2
+Interf3\maps\skirmish\Assult_2.jpg 393 337
+245 348 431 291
+#Skirmish25
+#Skirmish25_TXT
+-
+Missions\Skirmish\At_Mountains.m3d
+Missions\Skirmish\At_Mountains.txt
+2
+Interf3\maps\skirmish\At_Mountains.jpg 515 554
+158 558 271 580
+#Skirmish26
+#Skirmish26_TXT
+-
+Missions\Skirmish\Back_In_The_Village.m3d
+Missions\Skirmish\Back_In_The_Village.txt
+2
+Interf3\maps\skirmish\Back_In_The_Village.jpg 536 226
+173 237 467 181
+#Skirmish27
+#Skirmish27_TXT
+-
+Missions\Skirmish\Barselona.m3d
+Missions\Skirmish\Barselona.txt
+2
+Interf3\maps\skirmish\Barselona.jpg 397 264
+586 571 168 151
+#Skirmish28
+#Skirmish28_TXT
+-
+Missions\Skirmish\Battlefield_2.m3d
+Missions\Skirmish\Battlefield_2.txt
+2
+Interf3\maps\skirmish\Battlefield_2.jpg 211 368
+124 159 503 523
+#Skirmish29
+#Skirmish29_TXT
+-
+Missions\Skirmish\Bauernhofe.m3d
+Missions\Skirmish\Bauernhofe.txt
+2
+Interf3\maps\skirmish\Bauernhofe.jpg 579 579
+233 569 194 117
+#Skirmish30
+#Skirmish30_TXT
+-
+Missions\Skirmish\Berlin.m3d
+Missions\Skirmish\Berlin.txt
+2
+Interf3\maps\skirmish\Berlin.jpg 341 237
+528 197 175 421
+#Skirmish31
+#Skirmish31_TXT
+-
+Missions\Skirmish\Be_Quick_Or_Be_Dead_2.m3d
+Missions\Skirmish\Be_Quick_Or_Be_Dead_2.txt
+2
+Interf3\maps\skirmish\Be_Quick_Or_Be_Dead_2.jpg 512 530
+331 199 263 537
+#Skirmish32
+#Skirmish32_TXT
+-
+Missions\Skirmish\BigField.m3d
+Missions\Skirmish\BigField.txt
+2
+Interf3\maps\skirmish\BigField.jpg 246 567
+456 358 319 135
+#Skirmish33
+#Skirmish33_TXT
+-
+Missions\Skirmish\Blood_Brothers_2.m3d
+Missions\Skirmish\Blood_Brothers_2.txt
+2
+Interf3\maps\skirmish\Blood_Brothers_2.jpg 365 522
+268 373 258 403
+#Skirmish34
+#Skirmish34_TXT
+-
+Missions\Skirmish\Brave_New_World.m3d
+Missions\Skirmish\Brave_New_World.txt
+2
+Interf3\maps\skirmish\Brave_New_World.jpg 460 276
+170 138 215 437
+#Skirmish35
+#Skirmish35_TXT
+-
+Missions\Skirmish\Builder.m3d
+Missions\Skirmish\Builder.txt
+2
+Interf3\maps\skirmish\Builder.jpg 587 558
+383 413 128 558
+#Skirmish36
+#Skirmish36_TXT
+-
+Missions\Skirmish\Canyon.m3d
+Missions\Skirmish\Canyon.txt
+2
+Interf3\maps\skirmish\Canyon.jpg 568 342
+390 453 383 244
+#Skirmish37
+#Skirmish37_TXT
+-
+Missions\Skirmish\Czech_Mission_1.m3d
+Missions\Skirmish\Czech_Mission_1.txt
+2
+Interf3\maps\skirmish\Czech_Mission_1.jpg 572 591
+102 164 408 171
+#Skirmish38
+#Skirmish38_TXT
+-
+Missions\Skirmish\Dance_Of_Death.m3d
+Missions\Skirmish\Dance_Of_Death.txt
+2
+Interf3\maps\skirmish\Dance_Of_Death.jpg 503 577
+146 499 145 417
+#Skirmish39
+#Skirmish39_TXT
+-
+Missions\Skirmish\Des_Bois_En_Or.m3d
+Missions\Skirmish\Des_Bois_En_Or.txt
+2
+Interf3\maps\skirmish\Des_Bois_En_Or.jpg 275 411
+385 463 247 347
+#Skirmish40
+#Skirmish40_TXT
+-
+Missions\Skirmish\Die_Schanze.m3d
+Missions\Skirmish\Die_Schanze.txt
+2
+Interf3\maps\skirmish\Die_Schanze.jpg 335 271
+422 178 158 530
+#Skirmish41
+#Skirmish41_TXT
+-
+Missions\Skirmish\Die_With_Your_Boots_On.m3d
+Missions\Skirmish\Die_With_Your_Boots_On.txt
+2
+Interf3\maps\skirmish\Die_With_Your_Boots_On.jpg 428 401
+468 448 126 153
+#Skirmish42
+#Skirmish42_TXT
+-
+Missions\Skirmish\Dogs.m3d
+Missions\Skirmish\Dogs.txt
+2
+Interf3\maps\skirmish\Dogs.jpg 287 487
+290 348 409 352
+#Skirmish43
+#Skirmish43_TXT
+-
+Missions\Skirmish\Dogs_of_War.m3d
+Missions\Skirmish\Dogs_of_War.txt
+2
+Interf3\maps\skirmish\Dogs_of_War.jpg 289 579
+587 262 157 443
+#Skirmish44
+#Skirmish44_TXT
+-
+Missions\Skirmish\Ebene_Krieg.m3d
+Missions\Skirmish\Ebene_Krieg.txt
+2
+Interf3\maps\skirmish\Ebene_Krieg.jpg 454 426
+427 540 504 175
+#Skirmish45
+#Skirmish45_TXT
+-
+Missions\Skirmish\Edenburg.m3d
+Missions\Skirmish\Edenburg.txt
+2
+Interf3\maps\skirmish\Edenburg.jpg 585 378
+586 367 207 395
+#Skirmish46
+#Skirmish46_TXT
+-
+Missions\Skirmish\Empty_Village.m3d
+Missions\Skirmish\Empty_Village.txt
+2
+Interf3\maps\skirmish\Empty_Village.jpg 426 551
+138 407 342 494
+#Skirmish47
+#Skirmish47_TXT
+-
+Missions\Skirmish\Fates_Warning.m3d
+Missions\Skirmish\Fates_Warning.txt
+2
+Interf3\maps\skirmish\Fates_Warning.jpg 269 302
+308 466 333 343
+#Skirmish48
+#Skirmish48_TXT
+-
+Missions\Skirmish\Fields_Of_Glory.m3d
+Missions\Skirmish\Fields_Of_Glory.txt
+2
+Interf3\maps\skirmish\Fields_Of_Glory.jpg 498 590
+236 190 308 552
+#Skirmish49
+#Skirmish49_TXT
+-
+Missions\Skirmish\Fortunes_Of_War.m3d
+Missions\Skirmish\Fortunes_Of_War.txt
+2
+Interf3\maps\skirmish\Fortunes_Of_War.jpg 432 564
+315 249 284 263
+#Skirmish50
+#Skirmish50_TXT
+-
+Missions\Skirmish\Four_Bridges_To_Broda.m3d
+Missions\Skirmish\Four_Bridges_To_Broda.txt
+2
+Interf3\maps\skirmish\Four_Bridges_To_Broda.jpg 392 343
+413 246 518 319
+#Skirmish51
+#Skirmish51_TXT
+-
+Missions\Skirmish\Four_kings_3.m3d
+Missions\Skirmish\Four_kings_3.txt
+2
+Interf3\maps\skirmish\Four_kings_3.jpg 280 577
+114 275 538 145
+#Skirmish52
+#Skirmish52_TXT
+-
+Missions\Skirmish\From_Here_To_Eternity.m3d
+Missions\Skirmish\From_Here_To_Eternity.txt
+2
+Interf3\maps\skirmish\From_Here_To_Eternity.jpg 348 485
+551 565 475 497
+#Skirmish53
+#Skirmish53_TXT
+-
+Missions\Skirmish\Garnier_1.m3d
+Missions\Skirmish\Garnier_1.txt
+2
+Interf3\maps\skirmish\Garnier_1.jpg 571 255
+357 267 237 194
+#Skirmish54
+#Skirmish54_TXT
+-
+Missions\Skirmish\Geplankel_2.m3d
+Missions\Skirmish\Geplankel_2.txt
+2
+Interf3\maps\skirmish\Geplankel_2.jpg 368 326
+305 483 384 121
+#Skirmish55
+#Skirmish55_TXT
+-
+Missions\Skirmish\Goldgraberstatte.m3d
+Missions\Skirmish\Goldgraberstatte.txt
+2
+Interf3\maps\skirmish\Goldgraberstatte.jpg 225 558
+407 310 114 262
+#Skirmish56
+#Skirmish56_TXT
+-
+Missions\Skirmish\Gold_Necklace.m3d
+Missions\Skirmish\Gold_Necklace.txt
+2
+Interf3\maps\skirmish\Gold_Necklace.jpg 456 501
+283 547 548 278
+#Skirmish57
+#Skirmish57_TXT
+-
+Missions\Skirmish\Gori_Zmei.m3d
+Missions\Skirmish\Gori_Zmei.txt
+2
+Interf3\maps\skirmish\Gori_Zmei.jpg 290 313
+357 125 216 419
+#Skirmish58
+#Skirmish58_TXT
+-
+Missions\Skirmish\Grenzland.m3d
+Missions\Skirmish\Grenzland.txt
+2
+Interf3\maps\skirmish\Grenzland.jpg 378 307
+176 467 237 408
+#Skirmish59
+#Skirmish59_TXT
+-
+Missions\Skirmish\Guerrilla.m3d
+Missions\Skirmish\Guerrilla.txt
+2
+Interf3\maps\skirmish\Guerrilla.jpg 433 486
+350 334 340 187
+#Skirmish60
+#Skirmish60_TXT
+-
+Missions\Skirmish\Heaven_Can_Wait.m3d
+Missions\Skirmish\Heaven_Can_Wait.txt
+2
+Interf3\maps\skirmish\Heaven_Can_Wait.jpg 369 319
+274 473 301 153
+#Skirmish61
+#Skirmish61_TXT
+-
+Missions\Skirmish\Iberia.m3d
+Missions\Skirmish\Iberia.txt
+2
+Interf3\maps\skirmish\Iberia.jpg 366 527
+131 293 368 511
+#Skirmish62
+#Skirmish62_TXT
+-
+Missions\Skirmish\If_Eternity_Should_Fail.m3d
+Missions\Skirmish\If_Eternity_Should_Fail.txt
+2
+Interf3\maps\skirmish\If_Eternity_Should_Fail.jpg 519 589
+193 210 137 460
+#Skirmish63
+#Skirmish63_TXT
+-
+Missions\Skirmish\Invaders.m3d
+Missions\Skirmish\Invaders.txt
+2
+Interf3\maps\skirmish\Invaders.jpg 543 586
+348 564 533 415
+#Skirmish64
+#Skirmish64_TXT
+-
+Missions\Skirmish\Isle_Of_Avalon.m3d
+Missions\Skirmish\Isle_Of_Avalon.txt
+2
+Interf3\maps\skirmish\Isle_Of_Avalon.jpg 346 311
+587 311 286 376
+#Skirmish65
+#Skirmish65_TXT
+-
+Missions\Skirmish\Italia.m3d
+Missions\Skirmish\Italia.txt
+2
+Interf3\maps\skirmish\Italia.jpg 539 569
+476 189 427 251
+#Skirmish66
+#Skirmish66_TXT
+-
+Missions\Skirmish\Kost.m3d
+Missions\Skirmish\Kost.txt
+2
+Interf3\maps\skirmish\Kost.jpg 477 276
+356 512 293 443
+#Skirmish67
+#Skirmish67_TXT
+-
+Missions\Skirmish\Labyrinth.m3d
+Missions\Skirmish\Labyrinth.txt
+2
+Interf3\maps\skirmish\Labyrinth.jpg 459 347
+259 164 202 414
+#Skirmish68
+#Skirmish68_TXT
+-
+Missions\Skirmish\La_Terre_Du_Milieu.m3d
+Missions\Skirmish\La_Terre_Du_Milieu.txt
+2
+Interf3\maps\skirmish\La_Terre_Du_Milieu.jpg 492 217
+365 157 592 150
+#Skirmish69
+#Skirmish69_TXT
+-
+Missions\Skirmish\La_Ville_Des_Rebelles.m3d
+Missions\Skirmish\La_Ville_Des_Rebelles.txt
+2
+Interf3\maps\skirmish\La_Ville_Des_Rebelles.jpg 462 356
+413 260 213 510
+#Skirmish70
+#Skirmish70_TXT
+-
+Missions\Skirmish\Les_Sept_Collines.m3d
+Missions\Skirmish\Les_Sept_Collines.txt
+2
+Interf3\maps\skirmish\Les_Sept_Collines.jpg 538 246
+556 355 543 429
+#Skirmish71
+#Skirmish71_TXT
+-
+Missions\Skirmish\Le_Carrefour.m3d
+Missions\Skirmish\Le_Carrefour.txt
+2
+Interf3\maps\skirmish\Le_Carrefour.jpg 266 525
+440 251 412 114
+#Skirmish72
+#Skirmish72_TXT
+-
+Missions\Skirmish\London.m3d
+Missions\Skirmish\London.txt
+2
+Interf3\maps\skirmish\London.jpg 294 210
+469 437 149 204
+#Skirmish73
+#Skirmish73_TXT
+-
+Missions\Skirmish\LongWay.m3d
+Missions\Skirmish\LongWay.txt
+2
+Interf3\maps\skirmish\LongWay.jpg 556 480
+370 275 253 250
+#Skirmish74
+#Skirmish74_TXT
+-
+Missions\Skirmish\Manchester.m3d
+Missions\Skirmish\Manchester.txt
+2
+Interf3\maps\skirmish\Manchester.jpg 402 210
+322 119 576 455
+#Skirmish75
+#Skirmish75_TXT
+-
+Missions\Skirmish\Middletown2.m3d
+Missions\Skirmish\Middletown2.txt
+2
+Interf3\maps\skirmish\Middletown2.jpg 312 506
+122 400 297 197
+#Skirmish76
+#Skirmish76_TXT
+-
+Missions\Skirmish\Minsk.m3d
+Missions\Skirmish\Minsk.txt
+2
+Interf3\maps\skirmish\Minsk.jpg 377 201
+181 536 540 233
+#Skirmish77
+#Skirmish77_TXT
+-
+Missions\Skirmish\Munich.m3d
+Missions\Skirmish\Munich.txt
+2
+Interf3\maps\skirmish\Munich.jpg 219 512
+168 170 152 501
+#Skirmish78
+#Skirmish78_TXT
+-
+Missions\Skirmish\Nant.m3d
+Missions\Skirmish\Nant.txt
+2
+Interf3\maps\skirmish\Nant.jpg 514 216
+246 231 298 345
+#Skirmish79
+#Skirmish79_TXT
+-
+Missions\Skirmish\New_Frontier.m3d
+Missions\Skirmish\New_Frontier.txt
+2
+Interf3\maps\skirmish\New_Frontier.jpg 220 310
+369 256 412 110
+#Skirmish80
+#Skirmish80_TXT
+-
+Missions\Skirmish\No_Prayer_For_The_Dying.m3d
+Missions\Skirmish\No_Prayer_For_The_Dying.txt
+2
+Interf3\maps\skirmish\No_Prayer_For_The_Dying.jpg 240 433
+299 440 391 289
+#Skirmish81
+#Skirmish81_TXT
+-
+Missions\Skirmish\Old_Fortress_1.m3d
+Missions\Skirmish\Old_Fortress_1.txt
+2
+Interf3\maps\skirmish\Old_Fortress_1.jpg 313 518
+265 418 343 259
+#Skirmish82
+#Skirmish82_TXT
+-
+Missions\Skirmish\Old_Fortress_2.m3d
+Missions\Skirmish\Old_Fortress_2.txt
+2
+Interf3\maps\skirmish\Old_Fortress_2.jpg 449 600
+444 312 573 225
+#Skirmish83
+#Skirmish83_TXT
+-
+Missions\Skirmish\Only_The_Good_Die_Young.m3d
+Missions\Skirmish\Only_The_Good_Die_Young.txt
+2
+Interf3\maps\skirmish\Only_The_Good_Die_Young.jpg 279 565
+502 553 136 374
+#Skirmish84
+#Skirmish84_TXT
+-
+Missions\Skirmish\Paris.m3d
+Missions\Skirmish\Paris.txt
+2
+Interf3\maps\skirmish\Paris.jpg 341 461
+343 491 172 570
+#Skirmish85
+#Skirmish85_TXT
+-
+Missions\Skirmish\Paris_Burning.m3d
+Missions\Skirmish\Paris_Burning.txt
+2
+Interf3\maps\skirmish\Paris_Burning.jpg 372 224
+149 272 538 184
+#Skirmish86
+#Skirmish86_TXT
+-
+Missions\Skirmish\Prague.m3d
+Missions\Skirmish\Prague.txt
+2
+Interf3\maps\skirmish\Prague.jpg 414 329
+273 578 224 370
+#Skirmish87
+#Skirmish87_TXT
+-
+Missions\Skirmish\Purgatory.m3d
+Missions\Skirmish\Purgatory.txt
+2
+Interf3\maps\skirmish\Purgatory.jpg 404 365
+132 272 381 326
+#Skirmish88
+#Skirmish88_TXT
+-
+Missions\Skirmish\Regensburg.m3d
+Missions\Skirmish\Regensburg.txt
+2
+Interf3\maps\skirmish\Regensburg.jpg 270 212
+192 416 103 285
+#Skirmish89
+#Skirmish89_TXT
+-
+Missions\Skirmish\River_Land_1.m3d
+Missions\Skirmish\River_Land_1.txt
+2
+Interf3\maps\skirmish\River_Land_1.jpg 228 320
+450 337 395 372
+#Skirmish90
+#Skirmish90_TXT
+-
+Missions\Skirmish\River_Land_2.m3d
+Missions\Skirmish\River_Land_2.txt
+2
+Interf3\maps\skirmish\River_Land_2.jpg 495 230
+398 172 289 507
+#Skirmish91
+#Skirmish91_TXT
+-
+Missions\Skirmish\River_Land_3.m3d
+Missions\Skirmish\River_Land_3.txt
+2
+Interf3\maps\skirmish\River_Land_3.jpg 480 556
+360 527 155 389
+#Skirmish92
+#Skirmish92_TXT
+-
+Missions\Skirmish\River_Of_Death.m3d
+Missions\Skirmish\River_Of_Death.txt
+2
+Interf3\maps\skirmish\River_Of_Death.jpg 360 365
+394 128 492 377
+#Skirmish93
+#Skirmish93_TXT
+-
+Missions\Skirmish\River_Town.m3d
+Missions\Skirmish\River_Town.txt
+2
+Interf3\maps\skirmish\River_Town.jpg 303 575
+409 509 597 158
+#Skirmish94
+#Skirmish94_TXT
+-
+Missions\Skirmish\Road_To_Glory.m3d
+Missions\Skirmish\Road_To_Glory.txt
+2
+Interf3\maps\skirmish\Road_To_Glory.jpg 545 364
+421 408 178 297
+#Skirmish95
+#Skirmish95_TXT
+-
+Missions\Skirmish\Rocky_Mountains.m3d
+Missions\Skirmish\Rocky_Mountains.txt
+2
+Interf3\maps\skirmish\Rocky_Mountains.jpg 420 337
+126 425 550 514
+#Skirmish96
+#Skirmish96_TXT
+-
+Missions\Skirmish\Rolling_Thunder.m3d
+Missions\Skirmish\Rolling_Thunder.txt
+2
+Interf3\maps\skirmish\Rolling_Thunder.jpg 227 253
+178 168 522 524
+#Skirmish97
+#Skirmish97_TXT
+-
+Missions\Skirmish\Ruins.m3d
+Missions\Skirmish\Ruins.txt
+2
+Interf3\maps\skirmish\Ruins.jpg 502 544
+413 464 199 471
+#Skirmish98
+#Skirmish98_TXT
+-
+Missions\Skirmish\Run_To_The_Hills.m3d
+Missions\Skirmish\Run_To_The_Hills.txt
+2
+Interf3\maps\skirmish\Run_To_The_Hills.jpg 520 413
+581 129 113 161
+#Skirmish99
+#Skirmish99_TXT
+-
+Missions\Skirmish\Sand_Storm.m3d
+Missions\Skirmish\Sand_Storm.txt
+2
+Interf3\maps\skirmish\Sand_Storm.jpg 286 280
+291 383 397 326
+#Skirmish100
+#Skirmish100_TXT
+-
+Missions\Skirmish\Schlesien.m3d
+Missions\Skirmish\Schlesien.txt
+2
+Interf3\maps\skirmish\Schlesien.jpg 590 333
+167 286 409 307
+#Skirmish101
+#Skirmish101_TXT
+-
+Missions\Skirmish\Sea_Escort.m3d
+Missions\Skirmish\Sea_Escort.txt
+2
+Interf3\maps\skirmish\Sea_Escort.jpg 412 446
+592 347 237 135
+#Skirmish102
+#Skirmish102_TXT
+-
+Missions\Skirmish\Ship_War.m3d
+Missions\Skirmish\Ship_War.txt
+2
+Interf3\maps\skirmish\Ship_War.jpg 409 411
+525 297 310 179
+#Skirmish103
+#Skirmish103_TXT
+-
+Missions\Skirmish\Ship_War_Remix.m3d
+Missions\Skirmish\Ship_War_Remix.txt
+2
+Interf3\maps\skirmish\Ship_War_Remix.jpg 346 566
+142 105 155 451
+#Skirmish104
+#Skirmish104_TXT
+-
+Missions\Skirmish\Snow_head.m3d
+Missions\Skirmish\Snow_head.txt
+2
+Interf3\maps\skirmish\Snow_head.jpg 299 398
+249 189 481 307
+#Skirmish105
+#Skirmish105_TXT
+-
+Missions\Skirmish\Stone_island.m3d
+Missions\Skirmish\Stone_island.txt
+2
+Interf3\maps\skirmish\Stone_island.jpg 248 413
+336 453 279 156
+#Skirmish106
+#Skirmish106_TXT
+-
+Missions\Skirmish\Stone_Island_2.m3d
+Missions\Skirmish\Stone_Island_2.txt
+2
+Interf3\maps\skirmish\Stone_Island_2.jpg 413 223
+332 315 140 376
+#Skirmish107
+#Skirmish107_TXT
+-
+Missions\Skirmish\Strange_World.m3d
+Missions\Skirmish\Strange_World.txt
+2
+Interf3\maps\skirmish\Strange_World.jpg 528 529
+406 485 454 168
+#Skirmish108
+#Skirmish108_TXT
+-
+Missions\Skirmish\Tempete_De_Neige.m3d
+Missions\Skirmish\Tempete_De_Neige.txt
+2
+Interf3\maps\skirmish\Tempete_De_Neige.jpg 311 391
+200 220 509 283
+#Skirmish109
+#Skirmish109_TXT
+-
+Missions\Skirmish\These_Colours_Dont_Run.m3d
+Missions\Skirmish\These_Colours_Dont_Run.txt
+2
+Interf3\maps\skirmish\These_Colours_Dont_Run.jpg 371 564
+138 169 490 352
+#Skirmish110
+#Skirmish110_TXT
+-
+Missions\Skirmish\The_City_Of_Ebbs.m3d
+Missions\Skirmish\The_City_Of_Ebbs.txt
+2
+Interf3\maps\skirmish\The_City_Of_Ebbs.jpg 466 204
+317 328 552 517
+#Skirmish111
+#Skirmish111_TXT
+-
+Missions\Skirmish\The_Edge_Of_Darkness.m3d
+Missions\Skirmish\The_Edge_Of_Darkness.txt
+2
+Interf3\maps\skirmish\The_Edge_Of_Darkness.jpg 431 362
+117 531 115 570
+#Skirmish112
+#Skirmish112_TXT
+-
+Missions\Skirmish\The_Evil_That_Men_Do.m3d
+Missions\Skirmish\The_Evil_That_Men_Do.txt
+2
+Interf3\maps\skirmish\The_Evil_That_Men_Do.jpg 529 372
+594 205 160 366
+#Skirmish113
+#Skirmish113_TXT
+-
+Missions\Skirmish\The_Hills_Have_Eyes.m3d
+Missions\Skirmish\The_Hills_Have_Eyes.txt
+2
+Interf3\maps\skirmish\The_Hills_Have_Eyes.jpg 376 225
+456 443 114 290
+#Skirmish114
+#Skirmish114_TXT
+-
+Missions\Skirmish\The_Man_Who_Would_Be_King.m3d
+Missions\Skirmish\The_Man_Who_Would_Be_King.txt
+2
+Interf3\maps\skirmish\The_Man_Who_Would_Be_King.jpg 334 506
+555 127 476 487
+#Skirmish115
+#Skirmish115_TXT
+-
+Missions\Skirmish\The_Sea_On_Fire.m3d
+Missions\Skirmish\The_Sea_On_Fire.txt
+2
+Interf3\maps\skirmish\The_Sea_On_Fire.jpg 326 542
+360 495 495 300
+#Skirmish116
+#Skirmish116_TXT
+-
+Missions\Skirmish\The_War_of_3_Nations.m3d
+Missions\Skirmish\The_War_of_3_Nations.txt
+2
+Interf3\maps\skirmish\The_War_of_3_Nations.jpg 318 328
+195 200 368 429
+#Skirmish117
+#Skirmish117_TXT
+-
+Missions\Skirmish\Three_Generals.m3d
+Missions\Skirmish\Three_Generals.txt
+2
+Interf3\maps\skirmish\Three_Generals.jpg 243 443
+363 207 531 143
+#Skirmish118
+#Skirmish118_TXT
+-
+Missions\Skirmish\Three_Warlords.m3d
+Missions\Skirmish\Three_Warlords.txt
+2
+Interf3\maps\skirmish\Three_Warlords.jpg 465 451
+196 128 370 511
+#Skirmish119
+#Skirmish119_TXT
+-
+Missions\Skirmish\Tortuga.m3d
+Missions\Skirmish\Tortuga.txt
+2
+Interf3\maps\skirmish\Tortuga.jpg 506 248
+379 139 276 169
+#Skirmish120
+#Skirmish120_TXT
+-
+Missions\Skirmish\To_Tame_A_Land.m3d
+Missions\Skirmish\To_Tame_A_Land.txt
+2
+Interf3\maps\skirmish\To_Tame_A_Land.jpg 579 426
+287 465 185 401
+#Skirmish121
+#Skirmish121_TXT
+-
+Missions\Skirmish\Transylvania.m3d
+Missions\Skirmish\Transylvania.txt
+2
+Interf3\maps\skirmish\Transylvania.jpg 320 378
+338 325 229 106
+#Skirmish122
+#Skirmish122_TXT
+-
+Missions\Skirmish\Treasure_Island.m3d
+Missions\Skirmish\Treasure_Island.txt
+2
+Interf3\maps\skirmish\Treasure_Island.jpg 392 333
+568 208 280 232
+#Skirmish123
+#Skirmish123_TXT
+-
+Missions\Skirmish\Tuluza.m3d
+Missions\Skirmish\Tuluza.txt
+2
+Interf3\maps\skirmish\Tuluza.jpg 229 260
+289 216 474 216
+#Skirmish124
+#Skirmish124_TXT
+-
+Missions\Skirmish\Two_Cities.m3d
+Missions\Skirmish\Two_Cities.txt
+2
+Interf3\maps\skirmish\Two_Cities.jpg 212 567
+291 237 181 557
+#Skirmish125
+#Skirmish125_TXT
+-
+Missions\Skirmish\Under_A_Sight.m3d
+Missions\Skirmish\Under_A_Sight.txt
+2
+Interf3\maps\skirmish\Under_A_Sight.jpg 552 303
+469 128 301 392
+#Skirmish126
+#Skirmish126_TXT
+-
+Missions\Skirmish\United_Front.m3d
+Missions\Skirmish\United_Front.txt
+2
+Interf3\maps\skirmish\United_Front.jpg 349 318
+185 516 124 304
+#Skirmish127
+#Skirmish127_TXT
+-
+Missions\Skirmish\Valley_Four_Mills.m3d
+Missions\Skirmish\Valley_Four_Mills.txt
+2
+Interf3\maps\skirmish\Valley_Four_Mills.jpg 439 534
+497 482 260 212
+#Skirmish128
+#Skirmish128_TXT
+-
+Missions\Skirmish\Vena.m3d
+Missions\Skirmish\Vena.txt
+2
+Interf3\maps\skirmish\Vena.jpg 508 593
+198 271 571 241
+#Skirmish129
+#Skirmish129_TXT
+-
+Missions\Skirmish\Warsaw.m3d
+Missions\Skirmish\Warsaw.txt
+2
+Interf3\maps\skirmish\Warsaw.jpg 517 317
+108 203 414 373
+#Skirmish130
+#Skirmish130_TXT
+-
+Missions\Skirmish\War_in_Snow_With_6_Nations.m3d
+Missions\Skirmish\War_in_Snow_With_6_Nations.txt
+2
+Interf3\maps\skirmish\War_in_Snow_With_6_Nations.jpg 356 432
+388 136 360 310
+#Skirmish131
+#Skirmish131_TXT
+-
+Missions\Skirmish\WastedYears.m3d
+Missions\Skirmish\WastedYears.txt
+2
+Interf3\maps\skirmish\WastedYears.jpg 307 520
+268 520 460 413
+#Skirmish132
+#Skirmish132_TXT
+-
+Missions\Skirmish\Weidland.m3d
+Missions\Skirmish\Weidland.txt
+2
+Interf3\maps\skirmish\Weidland.jpg 587 329
+149 228 352 564
+#Skirmish133
+#Skirmish133_TXT
+-
+Missions\Skirmish\When_Two_Worlds_Collide.m3d
+Missions\Skirmish\When_Two_Worlds_Collide.txt
+2
+Interf3\maps\skirmish\When_Two_Worlds_Collide.jpg 299 204
+116 216 590 435
+#Skirmish134
+#Skirmish134_TXT
+-
+Missions\Skirmish\Wide_Valley.m3d
+Missions\Skirmish\Wide_Valley.txt
+2
+Interf3\maps\skirmish\Wide_Valley.jpg 327 530
+295 186 155 417
+#Skirmish135
+#Skirmish135_TXT
+-
+Missions\Skirmish\Wodorazdel.m3d
+Missions\Skirmish\Wodorazdel.txt
+2
+Interf3\maps\skirmish\Wodorazdel.jpg 279 593
+131 569 510 182
+#Skirmish136
+#Skirmish136_TXT
+-
+Missions\Skirmish\Afraid_To_Shoot_Strangers.m3d
+Missions\Skirmish\Afraid_To_Shoot_Strangers.txt
+2
+Interf3\maps\skirmish\Afraid_To_Shoot_Strangers.jpg 549 406
+493 145 368 562
+#Skirmish137
+#Skirmish137_TXT
+-
+Missions\Skirmish\Be_Quick_Or_Be_Dead.m3d
+Missions\Skirmish\Be_Quick_Or_Be_Dead.txt
+2
+Interf3\maps\skirmish\Be_Quick_Or_Be_Dead.jpg 490 474
+579 406 534 245
+#Skirmish138
+#Skirmish138_TXT
+-
+Missions\Skirmish\Crossing_The_Rhin.m3d
+Missions\Skirmish\Crossing_The_Rhin.txt
+2
+Interf3\maps\skirmish\Crossing_The_Rhin.jpg 428 549
+576 187 585 294
+#Skirmish139
+#Skirmish139_TXT
+-
+Missions\Skirmish\Czech_Mission_3.m3d
+Missions\Skirmish\Czech_Mission_3.txt
+2
+Interf3\maps\skirmish\Czech_Mission_3.jpg 203 241
+583 115 365 585
+#Skirmish140
+#Skirmish140_TXT
+-
+Missions\Skirmish\Deasert_Manuvers.m3d
+Missions\Skirmish\Deasert_Manuvers.txt
+2
+Interf3\maps\skirmish\Deasert_Manuvers.jpg 538 294
+500 163 512 284
+#Skirmish141
+#Skirmish141_TXT
+-
+Missions\Skirmish\Four_Continents_2.m3d
+Missions\Skirmish\Four_Continents_2.txt
+2
+Interf3\maps\skirmish\Four_Continents_2.jpg 217 532
+292 288 429 223
+#Skirmish142
+#Skirmish142_TXT
+-
+Missions\Skirmish\Gold_Gorge.m3d
+Missions\Skirmish\Gold_Gorge.txt
+2
+Interf3\maps\skirmish\Gold_Gorge.jpg 419 265
+571 249 252 434
+#Skirmish143
+#Skirmish143_TXT
+-
+Missions\Skirmish\Hieroglyph.m3d
+Missions\Skirmish\Hieroglyph.txt
+2
+Interf3\maps\skirmish\Hieroglyph.jpg 281 297
+293 587 304 519
+#Skirmish144
+#Skirmish144_TXT
+-
+Missions\Skirmish\Hills_Of_Gold.m3d
+Missions\Skirmish\Hills_Of_Gold.txt
+2
+Interf3\maps\skirmish\Hills_Of_Gold.jpg 419 328
+530 299 376 136
+#Skirmish145
+#Skirmish145_TXT
+-
+Missions\Skirmish\Inland_Sea.m3d
+Missions\Skirmish\Inland_Sea.txt
+2
+Interf3\maps\skirmish\Inland_Sea.jpg 369 268
+225 591 398 197
+#Skirmish146
+#Skirmish146_TXT
+-
+Missions\Skirmish\Lava_Flats.m3d
+Missions\Skirmish\Lava_Flats.txt
+2
+Interf3\maps\skirmish\Lava_Flats.jpg 267 314
+147 113 132 338
+#Skirmish147
+#Skirmish147_TXT
+-
+Missions\Skirmish\Moscow.m3d
+Missions\Skirmish\Moscow.txt
+2
+Interf3\maps\skirmish\Moscow.jpg 393 338
+351 339 262 448
+#Skirmish148
+#Skirmish148_TXT
+-
+Missions\Skirmish\Mountain_Pass.m3d
+Missions\Skirmish\Mountain_Pass.txt
+2
+Interf3\maps\skirmish\Mountain_Pass.jpg 351 230
+286 299 411 130
+#Skirmish149
+#Skirmish149_TXT
+-
+Missions\Skirmish\Nubia.m3d
+Missions\Skirmish\Nubia.txt
+2
+Interf3\maps\skirmish\Nubia.jpg 404 513
+361 385 508 159
+#Skirmish150
+#Skirmish150_TXT
+-
+Missions\Skirmish\Plains_Attack.m3d
+Missions\Skirmish\Plains_Attack.txt
+2
+Interf3\maps\skirmish\Plains_Attack.jpg 531 254
+419 441 562 146
+#Skirmish151
+#Skirmish151_TXT
+-
+Missions\Skirmish\River_Country.m3d
+Missions\Skirmish\River_Country.txt
+2
+Interf3\maps\skirmish\River_Country.jpg 220 429
+407 445 578 555
+#Skirmish152
+#Skirmish152_TXT
+-
+Missions\Skirmish\Team.m3d
+Missions\Skirmish\Team.txt
+2
+Interf3\maps\skirmish\Team.jpg 320 318
+120 397 405 159
+#Skirmish153
+#Skirmish153_TXT
+-
+Missions\Skirmish\Ukraine.m3d
+Missions\Skirmish\Ukraine.txt
+2
+Interf3\maps\skirmish\Ukraine.jpg 211 418
+222 507 287 409
+#Skirmish154
+#Skirmish154_TXT
+-
+Missions\Skirmish\Winter_Plateau.m3d
+Missions\Skirmish\Winter_Plateau.txt
+2
+Interf3\maps\skirmish\Winter_Plateau.jpg 339 521
+135 132 246 253
+#Laterredumilieu
+#Laterredumilieu_TXT
+-
+Missions\Skirmish\Laterredumilieu.m3d
+Missions\Skirmish\Laterredumilieu.txt
+2
+Interf3\maps\skirmish\Laterredumilieu.jpg 700 330
+950 451 69 62
+#10PT
+#10PT_TXT
+-
+Missions\Skirmish\10PT.m3d
+Missions\Skirmish\Paris.txt
+2
+Interf3\maps\skirmish\hills_of_gold.jpg 700 330
+91 305 847 229
+#dogs
+#dogs_TXT
+-
+Missions\Skirmish\dogs.m3d
+Missions\Skirmish\Paris.txt
+2
+Interf3\maps\skirmish\dogs.jpg 700 330
+91 305 847 229
+#111River
+#111River_TXT
+-
+Missions\Skirmish\111River.m3d
+Missions\Skirmish\Paris.txt
+2
+Interf3\maps\skirmish\riverofdeath.jpg 700 330
+91 305 847 229
+#Assult2
+#Assult2_TXT
+-
+Missions\Skirmish\Assult2.m3d
+Missions\Skirmish\Paris.txt
+2
+Interf3\maps\skirmish\Counrtyside_afire.jpg 700 330
+91 305 847 229
+#bethere5
+#bethere5_TXT
+-
+Missions\Skirmish\bethere5.m3d
+Missions\Skirmish\Standard.txt
+2
+Interf3\maps\skirmish\rollingthunder.jpg 700 330
+91 305 847 229

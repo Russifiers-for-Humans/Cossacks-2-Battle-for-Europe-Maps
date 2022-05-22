@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Minsk\
+{FC12}{C FF707070}Auteur: {C FF100801} 
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801} 
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or grasp the enemy City center or grasp all enemy villages on a map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will lose, if will lose the City center or the enemy will grasp all villages on a map.

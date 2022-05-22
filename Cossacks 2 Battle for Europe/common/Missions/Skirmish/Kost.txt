@@ -1,0 +1,8 @@
+{FG14}{C FF640100}Kost\
+{FC12}{C FF707070}Author: {C FF100801}[IG]White Crow
+\
+{FS} 
+\{FC12}{C FF640100}Victoiry Conditions:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Defeat Conditions:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

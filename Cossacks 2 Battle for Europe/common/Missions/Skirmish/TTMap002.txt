@@ -1,0 +1,21 @@
+{FG14}{C FF640100}TTs Die Schanze\
+{FC12}{C FF707070}Автор: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF909090}Доработка: {C FF100801}www.TigrOSoft.ucoz.ru
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}Karte fьe 1 bis 3 Spieler, + KI.
+Rebellische Abtrьnnige haben die Schanzen besetzt und machen die Gegend unsicher. Die Lage ist ernst. Unser Hautpfeind wurde gesichtet, dessen Ziel es ist, das Land mit allen Mitteln zu erobern.
+Wir mьssen dem Gegner zuvorkommen.
+Viel Glьck !
+Hinweis: Nation 4 (Rebellen) ist nur fьr die KI vorgesehen. Wird sie ausgewдhlt greift sie sofort an.
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Уничтожьте все вражеские Городские центры или захватите все вражеские деревни на карте.
+\
+{FS} 
+\
+{FC12}{C FF640100}Условия поражения:{C FF100801} Вы проиграете, если потеряете Городской центр или враг захватит все деревни на карте.

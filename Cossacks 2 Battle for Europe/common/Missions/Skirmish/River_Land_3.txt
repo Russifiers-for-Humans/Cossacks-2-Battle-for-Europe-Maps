@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Riverland 3\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Riverland 3 est le même secteur que Riverland, mais la ville était sur l'île dans le centre de la zone superficie Riverland complètement détruite. Ressource d'or nouvellement trouvé inquiet, mais superficie dans le temps pour un nouveau développement de l'île. Cela se traduit par de nouvelles opportunités stratégiques, comme il est maintenant plus difficile de garder la zone en permanence. Mais un bon stratège est également en cours d'exécution des opportunités de la zone Riverland à gagner.
+Si la reprise de Riverland tourner en votre faveur?
+Bonne chance!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Tous les villages et les centres urbains doivent être conquis pour obtenir la victoire
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Si tous les villages ou les centres urbains sont perdus, ce qui est la défaite

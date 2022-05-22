@@ -1,0 +1,17 @@
+{FC12}{C FF707070}Type: {C FF100801}Team game
+\
+{FS} 
+\
+{FC12}{C FF707070}Patch 1.4{C FF100801}
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}This map is designed for a team game or a game where everyone is for himself. In the center of the map are the main resources - iron and gold, so there will be a major rivalry for these villages.
+\
+{FS} 
+\
+{FC12}{C FF640100}Victory conditions: {C FF100801}Destroy all enemy City centers or capture all enemy villages on the map.
+\
+{FS} 
+\
+{FC12}{C FF640100}Defeat conditions: {C FF100801}You will lose if you lose the City Center or the enemy captures all the villages on the map.

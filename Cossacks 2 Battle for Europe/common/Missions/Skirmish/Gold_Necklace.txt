@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Gold necklace\
+{FC12}{C FF707070}Auteur: {C FF100801}© 2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Players are in different parts of a map. Except starting settlements on a map only the settlements extracting gold. But the trouble what not all of them are profitable, on one works only 1 miner.Only in the central part of a map settlements work on full power. Collect "necklace" from gold settlements and find the way to a victory!
+P.S. The prize-winning settlement - the thrown mill, will be very opportunely.
+
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

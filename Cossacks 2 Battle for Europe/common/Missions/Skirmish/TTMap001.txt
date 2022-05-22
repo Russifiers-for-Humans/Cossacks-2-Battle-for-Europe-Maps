@@ -1,0 +1,22 @@
+{FG14}{C FF640100}TTs Goldgrдberstдtte\
+{FC12}{C FF707070}Автор: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF909090}Доработка: {C FF100801}www.TigrOSoft.ucoz.ru
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}Beide Nationen liegen sich diagonal gegenьber.
+Mitten in einem groЯen Schlachtareal drohen kleinen Goldgrдberdцrfern das baldige aus.
+Teile der Berkwerksstollen sind schon ьberflutet.
+Niemand weis wie lange sich die ьbrigen Stollen den unterirdischen Seen wiedersetzen kцnnen.
+Bergen sie die restlichen Goldvorkommen bevor es Ihr Gegner tut.
+Viel Glьck !
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Уничтожьте все вражеские Городские центры или захватите все вражеские деревни на карте.
+\
+{FS} 
+\
+{FC12}{C FF640100}Условия поражения:{C FF100801} Вы проиграете, если потеряете Городской центр или враг захватит все деревни на карте.

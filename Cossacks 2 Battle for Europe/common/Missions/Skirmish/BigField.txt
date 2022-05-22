@@ -1,0 +1,16 @@
+{FG14}{C FF640100}BigField\
+{FC12}{C FF707070}Auteur: {C FF100801}Inconnu
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}This map on 6 players. Six continents are connected to the seventh on which the basic fights will be conducted. As all roads are well protected, it will be difficult to take another's continents.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Destroy all the enemy Town Centers or grasp all enemy villages on a map.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}You will lose, if will lose the Town Center or the enemy will grasp all villages on a map.
+
+

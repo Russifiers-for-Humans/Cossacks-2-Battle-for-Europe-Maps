@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Iberia\
+{FC12}{C FF707070}Auteur: {C FF100801}© 2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Game on 2 players. The basic events to be developed in the central part of a map, be attentive, communications are strongly stretched. If have not forgotten (from the company for Spain), towers supervise roads, and to all of them is equal on whom to scorch.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

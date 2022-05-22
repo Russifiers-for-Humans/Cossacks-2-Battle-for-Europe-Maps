@@ -1,0 +1,13 @@
+{FG14}{C FF640100}Arena\
+{FC12}{C FF707070}Author: {C FF100801} © 2009 Agrid (agrid@front.ru)
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Map for three players. A minimum of settlements, ways leave in the centre where to be paved arena where the basic events will take place. Organise dense defence, or spend lightning attack.
+It is convenient to play for three, where everyone for itself …
+\
+{FS} 
+\{FC12}{C FF640100}Victory conditions:{C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Defeat conditions:{C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

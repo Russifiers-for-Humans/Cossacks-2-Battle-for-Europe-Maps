@@ -1,0 +1,14 @@
+{FG14}{C FF640100}Nubia\
+{FC12}{C FF707070}Auteur: {C FF100801} ©2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Nubia historical area in a valley of Nile, between the first and sixth thresholds. The name, probably, occurs from the Egyptian word nub gold. Nubia was a source of slaves and natural riches (gold and an ivory). 
+The place for struggle ideally even for very weak players, probably to play from defence. Be active and do not do errors. 
+Successes!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map.
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

@@ -1,0 +1,17 @@
+{FC12}{C FF707070}Type: {C FF100801}Command game
+\
+{FS} 
+\
+{FC12}{C FF707070}From a patch 1.4{C FF100801}
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}It is a card it is intended for command game or game, where everyone for itself. In the center of a card the main resources - iron and gold are located, therefore for these villages and there will be a basic rivalry.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions of a victory: {C FF100801}Destroy or grasp the enemy City center or grasp all enemy villages on a card.
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions of defeat: {C FF100801}You will lose, if will lose the City center or the enemy will grasp all villages on a card.

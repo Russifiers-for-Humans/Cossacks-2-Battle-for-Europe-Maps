@@ -1,0 +1,16 @@
+{FG14}{C FF640100}Winter Plateau\
+{FC12}{C FF707070}Auteur: {C FF100801}©2009 Agrid
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}The map is calculated on 2 contenders. In the central part the extensive plateau to which all basic resources are concentrated is located. You have a possibility to take under the control this rich part and to win. 
+Or having subordinated itself, settlements with woodcutters, to organise lightning roundabout campaign with application of uhlans (it is clear that for this strategy will approach uhlan to the nation). 
+Search for the way to a victory!
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Rasez ou capturez les hôtels de ville adverses ou prenez tous les villages de la carte.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous serez vaincu si vous perdez vos hôtels de ville ou si l'ennemi s'empare de tous les villages de la carte.

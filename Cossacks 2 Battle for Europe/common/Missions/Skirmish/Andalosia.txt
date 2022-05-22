@@ -1,0 +1,20 @@
+{FG14}{C FF640100}Andalosia\
+{FC12}{C FF707070}Auteur: {C FF100801}S.D
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}L'été à été trés ravageur et les réserves de blé aboutissent à leur fin! 
+Si nous ne voulons pas périr de faimil nous faut conquérir d'autres sources de nourriture. 
+Heureusement q'au millieux de notre continent il y a plusieurs villages de blé indépendants. 
+Mais malheureusement notre ennemi connais trop bien notre situation et vas essayer de nous devancer ! Par malheur les villageois sont des guerriers farouches puisqu'ils sont habitués à défendre leur provisions contre leurs voisins envieux ! 
+(6 nations, équipes modulables, maximum 6 joueurs pour multiplay) 
+\
+{FS} 
+\
+{FC12}{C FF640100}Conditions de victoire: {C FF100801}Anéantissez toutes les troupes ennemies et conquérissez tous les points stratégiques.
+\
+{FS} 
+\
+{FC12}{C FF640100}Motifs de défaite: {C FF100801}Vous perdez si l'ennemie conquére tous vos points stratégiques ou si vous perdez toutes vos troupes. 
+{FS} 
+(optimisée pour le Iron Man Mod)

@@ -1,0 +1,15 @@
+{FG14}{C FF640100}Bauernhofe\
+{FC12}{C FF707070}Auteur: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Les terres fertiles pour Agraanbau entourant une traversée de la rivière, qui énumère de nombreux gisements d'or et de charbon. Pour établir des villes prospères, économiques et militaires, qui peuvent aussi résister aux attaques des ennemis, vous ne viendrez pas à conquérir un village d'or autour. Comme tous les villages de l'or et des villages de charbon supplémentaires dans la traversée de la rivière sont, des affrontements hostiles seront inévitables.
+La seule façon de préserver sa nation de la ruine, est la conquête de toute la carte.
+Allez et gagnez!
+Bonne chance!
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Tous les villages et les centres urbains doivent être conquis pour obtenir la victoire
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} Si tous les villages ou les centres urbains sont perdus, ce qui est la défaite

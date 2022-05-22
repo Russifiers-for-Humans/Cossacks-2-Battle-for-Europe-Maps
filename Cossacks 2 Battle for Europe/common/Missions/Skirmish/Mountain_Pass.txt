@@ -1,0 +1,12 @@
+{FG14}{C FF640100}Mountain Pass\
+{FC12}{C FF707070}Auteur: {C FF100801}Daddio
+\
+{FS} 
+\
+{FC12}{C FF707070}Description: {C FF100801}Open map, you must control the Pass in the middle of the map in order to control the game.
+\
+{FS} 
+\{FC12}{C FF640100}Conditions de victoire: {C FF100801} Destroy or capture the enemy town halls or capture all villages on the map
+\
+{FS} 
+\{FC12}{C FF640100}Motifs de défaite: {C FF100801} You will be defeated if you lose your town halls or the enemy captures all the villages on the map.

@@ -1,0 +1,20 @@
+{FG14}{C FF640100}TTs Die Kreuzung\
+{FC12}{C FF707070}Автор: {C FF100801}Tricky Tiger
+\
+{FS} 
+\
+{FC12}{C FF909090}Доработка: {C FF100801}www.TigrOSoft.ucoz.ru
+\
+{FS} 
+\
+{FC12}{C FF707070}Описание: {C FF100801}Karte fьr 1 bis 4 Spieler.
+An der Kreuzung zweier Bдche, befindet sich eine Niederlassung, die mit Goldhandel ihr Glьck versucht. Eine lukrative Einnahmequelle, auf die es schon drei Nationen abgesehen haben. Es wдre doch sehr schade, wenn man sich nicht ein Stьck, dieses wunderbaren Geschenks, nehmen wьrde.
+Und wenn man schon dabei ist, kцnnte man sich ja auch gleich den ganze Brocken nehmen. Denn teilen wьrden die anderen Nationen wohl doch nicht.
+Nun denn, auf in die Schlacht. Viel Glьck !
+\
+{FS} 
+\{FC12}{C FF640100}Условия победы:{C FF100801} Уничтожьте все вражеские Городские центры или захватите все вражеские деревни на карте.
+\
+{FS} 
+\
+{FC12}{C FF640100}Условия поражения:{C FF100801} Вы проиграете, если потеряете Городской центр или враг захватит все деревни на карте.
