@@ -10,8 +10,8 @@
 #define AppDescription "{cm:Maps} {cm:for} Cossacks 2 Battle for Europe"                                     ; Описание программы
 #define Typ "Maps"                                                                    ; Тип приложения
 ; Практически никогда не меняется
-#define AppVer "1.1"                                                                        ; Версия установщика
-#define Platz "D:\$RECYCLE.BIN\Bibliothek\Dokument\GitHub"                                                    ; Место
+#define AppVer "1.2"                                                                        ; Версия установщика
+#define Platz "C:\Users\TeMeR\Documents\GitHub"                                                    ; Место
 ; Константы
 #define Copyright "Folk"                                                                  ; (констант)Копирайт
 #define AppPublisher "Russifiers for Humans"                                              ; (констант)Название инициативы
@@ -46,7 +46,8 @@ VersionInfoDescription={#AppDescription}
 VersionInfoOriginalFileName={#OriginalNameSetup}  
 VersionInfoProductName={#ProductVerName}
 VersionInfoProductTextVersion={#AppVer}
-VersionInfoVersion={#AppVer}     
+VersionInfoVersion={#AppVer}
+AppendDefaultDirName = no      
 //--------------------------------------Options--------------------------------------\\
 ; Если установлено значение «да», программа установки отобразит флажок «Не создавать папку в меню «Пуск»
 AllowNoIcons=yes
